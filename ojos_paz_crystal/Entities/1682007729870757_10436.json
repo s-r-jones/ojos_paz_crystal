@@ -1,0 +1,79 @@
+{
+    "1646084323731593:29572": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "0b91e13c69c7632bf797724b04053afc"
+                    },
+                    "v": "1682007729870979:11312"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "37209",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "140502",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682007729870978:11311"
+        }
+    },
+    "1682007729870757:10436": {
+        "IResourceController": {
+            "name": "Custom Landmarker Creator [SCAN_ME]",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1646084323731593:29572",
+            "fileId": "1682007729870975:11309",
+            "originalId": "1682007729870976:11310",
+            "publicId": "1682007729871909:11939",
+            "expected_hash": "9bb170ad75eb948d479ac145f4084b49",
+            "additional": {
+                "originHash": "0b91e13c69c7632bf797724b04053afc"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1646084323731593:29572",
+            "name": "Files/File446.png",
+            "flags": 1
+        }
+    },
+    "1682007729870975:11309": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870975_11309.pvr"
+        }
+    },
+    "1682007729870976:11310": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870976_11310.png"
+        }
+    },
+    "1682007729870978:11311": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870978_11311.png"
+        }
+    },
+    "1682007729870979:11312": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870979_11312.pvr"
+        }
+    },
+    "1682007729871909:11939": {
+        "IResourceController": {
+            "public": {
+                "path": "Custom Landmarker Creator [SCAN_ME].png",
+                "hash": "0b91e13c69c7632bf797724b04053afc"
+            }
+        }
+    }
+}

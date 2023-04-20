@@ -1,0 +1,49 @@
+{
+    "1682007729870854:11172": {
+        "IResourceController": {
+            "name": "deer_dust_vfx",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1664319681876082:2557799",
+            "fileId": "1682007729871544:11712",
+            "originalId": "1682007729871545:11713",
+            "publicId": "1682007729872020:12120",
+            "expected_hash": "ee99a6505417bdf9fbd054a89e35424c",
+            "resources": [
+                "1682007764322540:102583"
+            ],
+            "additional": {
+                "GraphFilepathKey": "Files/File1027/",
+                "_exteraFile_": [
+                    "Files/File1027/vfx.vfxgraph"
+                ],
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1664319681876082:2557799",
+            "name": "Files/File_1682007729871544_11712",
+            "flags": 1
+        }
+    },
+    "1682007729871544:11712": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871544_11712"
+        }
+    },
+    "1682007729871545:11713": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871545_11713.lsvfx"
+        }
+    },
+    "1682007729872020:12120": {
+        "IResourceController": {
+            "public": {
+                "path": "VFX [DOUBLE_CLICK_VFX_ASSET]/Complex Example/deer_dust_vfx.lsvfx",
+                "hash": "32de45d2ed2915dce6b56b0d05753c75"
+            }
+        }
+    }
+}

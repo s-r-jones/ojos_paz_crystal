@@ -1,0 +1,22 @@
+{
+    "1682007729872001:12065": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/paz_dance_fix_skip_5/Materials"
+            }
+        }
+    },
+    "1682007729872671:12485": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729872001:12065",
+            "resources": [
+                "1682007729870825:11000"
+            ]
+        }
+    }
+}

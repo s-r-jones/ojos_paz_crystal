@@ -1,0 +1,79 @@
+{
+    "1682007759125743:98688": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/ground_grid.png",
+                "hash": "26b5600591ba238fbcf5109847db6d02"
+            }
+        }
+    },
+    "1682007759127380:98689": {
+        "IFileManager": {
+            "path": "Files/File_1682007759127380_98689.pvr"
+        }
+    },
+    "1682007759128014:98690": {
+        "IResourceController": {
+            "name": "ground_grid",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682007759128381:98691",
+            "fileId": "1682007759127380:98689",
+            "originalId": "1682007759128558:98696",
+            "publicId": "1682007759125743:98688",
+            "expected_hash": "f5b0699973a8d5e875d1028d5eab5c19",
+            "additional": {
+                "originHash": "26b5600591ba238fbcf5109847db6d02"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682007759128381:98691",
+            "name": "Files/File_1682007759127380_98689.png",
+            "flags": 1
+        }
+    },
+    "1682007759128381:98691": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "26b5600591ba238fbcf5109847db6d02"
+                    },
+                    "v": "1682007936273351:276426"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "42335",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "49509",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682007759130680:98697"
+        }
+    },
+    "1682007759128558:98696": {
+        "IFileManager": {
+            "path": "Files/File_1682007759128558_98696.png"
+        }
+    },
+    "1682007759130680:98697": {
+        "IFileManager": {
+            "path": "Files/File_1682007759130680_98697.png"
+        }
+    },
+    "1682007936273351:276426": {
+        "IFileManager": {
+            "path": "Files/File_1682007936273351_276426.pvr"
+        }
+    }
+}

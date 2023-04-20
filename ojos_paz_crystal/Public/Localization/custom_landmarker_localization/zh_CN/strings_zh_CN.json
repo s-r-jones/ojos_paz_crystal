@@ -1,0 +1,5 @@
+{
+  "goTo": "前往 {{Name}}",
+  "pointAt": "指向 {{Name}}",
+  "landmarkFailed": "{{Name}} 地标不可用，  加载位置数据失败"
+}

@@ -1,0 +1,22 @@
+{
+    "1682007729871951:12009": {
+        "IResourceController": {
+            "public": {
+                "path": "Screen Space Normals Resources/Script"
+            }
+        }
+    },
+    "1682007729872510:12452": {
+        "IResourceController": {
+            "name": "Script",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871951:12009",
+            "resources": [
+                "1682007729870796:10743"
+            ]
+        }
+    }
+}

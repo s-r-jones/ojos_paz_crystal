@@ -1,0 +1,17 @@
+{
+    "1682007729870788:10686": {
+        "IResourceController": {
+            "name": "right_latwist_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1660599278696671:118972"
+        },
+        "IResourceManager": {
+            "uid": "1660599278696671:118972",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

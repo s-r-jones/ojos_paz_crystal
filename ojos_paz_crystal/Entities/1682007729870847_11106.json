@@ -1,0 +1,42 @@
+{
+    "1682007729870847:11106": {
+        "IResourceController": {
+            "name": "deer_body",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664319681069960:2557445",
+            "fileId": "1682007729871528:11701",
+            "originalId": "1682007729871529:11702",
+            "publicId": "1682007729872017:12109",
+            "expected_hash": "2b4f98aa945e7e5f43df6cce224815fd",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1664319681069960:2557445",
+            "name": "Files/File_1682007729871528_11701",
+            "flags": 1
+        }
+    },
+    "1682007729871528:11701": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871528_11701"
+        }
+    },
+    "1682007729871529:11702": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871529_11702.lsmat"
+        }
+    },
+    "1682007729872017:12109": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/deer_body.lsmat",
+                "hash": "be7ca931d9bad69b85438fc83749dc21"
+            }
+        }
+    }
+}

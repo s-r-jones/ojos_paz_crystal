@@ -1,0 +1,39 @@
+{
+    "1682007729870843:11087": {
+        "IResourceController": {
+            "name": "Glow Example",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664235576383115:741610",
+            "fileId": "1682007729871469:11659",
+            "originalId": "1682007729871471:11660",
+            "publicId": "1682007729872009:12092",
+            "expected_hash": "c82948dbc44aebc876532245390d35b1"
+        },
+        "IResourceManager": {
+            "uid": "1664235576383115:741610",
+            "name": "Files/File_1682007729871469_11659",
+            "flags": 1
+        }
+    },
+    "1682007729871469:11659": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871469_11659"
+        }
+    },
+    "1682007729871471:11660": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871471_11660.lsmat"
+        }
+    },
+    "1682007729872009:12092": {
+        "IResourceController": {
+            "public": {
+                "path": "Cinematic Glow/Extra/Glow Example.lsmat",
+                "hash": "6dcfce622f4b8e8a5e46578d9fe84f45"
+            }
+        }
+    }
+}

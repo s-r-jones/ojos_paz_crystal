@@ -1,0 +1,39 @@
+{
+    "1682007729870794:10733": {
+        "IResourceController": {
+            "name": "Uber Diffuse",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662072563457392:3191147",
+            "fileId": "1682007729871109:11408",
+            "originalId": "1682007729871110:11409",
+            "publicId": "1682007729871938:11998",
+            "expected_hash": "3be4fff06a91a2394dbde99b576dfa8f"
+        },
+        "IResourceManager": {
+            "uid": "1662072563457392:3191147",
+            "name": "Files/File_1682007729871109_11408",
+            "flags": 1
+        }
+    },
+    "1682007729871109:11408": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871109_11408"
+        }
+    },
+    "1682007729871110:11409": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871110_11409.lsmat"
+        }
+    },
+    "1682007729871938:11998": {
+        "IResourceController": {
+            "public": {
+                "path": "Spawn Particles On Mesh Resources/Meshes/Red Panda/Textures/Uber Diffuse.lsmat",
+                "hash": "6711c32003072609a4fda37c092ab640"
+            }
+        }
+    }
+}

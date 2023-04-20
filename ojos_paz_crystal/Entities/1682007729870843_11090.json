@@ -1,0 +1,42 @@
+{
+    "1682007729870843:11090": {
+        "IResourceController": {
+            "name": "Trails VFX",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1664316876333490:1995436",
+            "fileId": "1682007729871478:11665",
+            "originalId": "1682007729871480:11666",
+            "publicId": "1682007729872010:12095",
+            "expected_hash": "349c9d6879e2db098e03273985763c0b",
+            "resources": [
+                "1682007768213206:102850"
+            ]
+        },
+        "IResourceManager": {
+            "uid": "1664316876333490:1995436",
+            "name": "Files/File_1682007729871478_11665",
+            "flags": 1
+        }
+    },
+    "1682007729871478:11665": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871478_11665"
+        }
+    },
+    "1682007729871480:11666": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871480_11666.lsvfx"
+        }
+    },
+    "1682007729872010:12095": {
+        "IResourceController": {
+            "public": {
+                "path": "Trail VFX Resources/VFX/Trails VFX.lsvfx",
+                "hash": "7309023c4e58e166b2958a7075069b99"
+            }
+        }
+    }
+}

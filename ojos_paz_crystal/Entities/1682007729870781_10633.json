@@ -1,0 +1,17 @@
+{
+    "1682007729870781:10633": {
+        "IResourceController": {
+            "name": "mixamorig1_LeftToe_End",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1660342836053378:176676"
+        },
+        "IResourceManager": {
+            "uid": "1660342836053378:176676",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

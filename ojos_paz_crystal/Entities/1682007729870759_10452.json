@@ -1,0 +1,17 @@
+{
+    "1682007729870759:10452": {
+        "IResourceController": {
+            "name": "mixamorig1_LeftShoulder",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1660262310724198:1073821"
+        },
+        "IResourceManager": {
+            "uid": "1660262310724198:1073821",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

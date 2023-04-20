@@ -1,0 +1,91 @@
+{
+    "1660599278605979:118209": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2048",
+                        "uncompressed_hash": "92c474fc13be64265bb2d8f7a61337bd"
+                    },
+                    "v": "1682007729871608:11759"
+                },
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "92c474fc13be64265bb2d8f7a61337bd"
+                    },
+                    "v": "1682007729871069:11378"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "28258",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "128928",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682007729871052:11365"
+        }
+    },
+    "1682007729870783:10645": {
+        "IResourceController": {
+            "name": "red_panda_base",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1660599278605979:118209",
+            "fileId": "1682007729871049:11363",
+            "originalId": "1682007729871051:11364",
+            "publicId": "1682007729871922:11976",
+            "expected_hash": "6c03b504733eb65ad22db46c17a463dc",
+            "additional": {
+                "originHash": "92c474fc13be64265bb2d8f7a61337bd"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1660599278605979:118209",
+            "name": "Files/File513.jpg",
+            "flags": 1
+        }
+    },
+    "1682007729871049:11363": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871049_11363.png"
+        }
+    },
+    "1682007729871051:11364": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871051_11364.png"
+        }
+    },
+    "1682007729871052:11365": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871052_11365.png"
+        }
+    },
+    "1682007729871069:11378": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871069_11378.pvr"
+        }
+    },
+    "1682007729871608:11759": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871608_11759.png"
+        }
+    },
+    "1682007729871922:11976": {
+        "IResourceController": {
+            "public": {
+                "path": "Spawn Particles On Mesh Resources/Meshes/Red Panda/Textures/red_panda_base.png",
+                "hash": "92c474fc13be64265bb2d8f7a61337bd"
+            }
+        }
+    }
+}

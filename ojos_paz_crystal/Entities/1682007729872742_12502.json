@@ -1,0 +1,24 @@
+{
+    "1682007729872020:12119": {
+        "IResourceController": {
+            "public": {
+                "path": "VFX [DOUBLE_CLICK_VFX_ASSET]/Complex Example"
+            }
+        }
+    },
+    "1682007729872742:12502": {
+        "IResourceController": {
+            "name": "Complex Example",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729872020:12119",
+            "resources": [
+                "1682007729870854:11172",
+                "1682007729870855:11177",
+                "1682007729870855:11182"
+            ]
+        }
+    }
+}

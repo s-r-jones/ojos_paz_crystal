@@ -1,0 +1,17 @@
+{
+    "1682007729870852:11155": {
+        "IResourceController": {
+            "name": "leftLeg2_HiResToe",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664319681724352:2557718"
+        },
+        "IResourceManager": {
+            "uid": "1664319681724352:2557718",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

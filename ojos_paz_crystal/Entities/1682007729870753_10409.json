@@ -1,0 +1,33 @@
+{
+    "1682007729870753:10409": {
+        "IResourceController": {
+            "name": "HintController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643831938393980:905352",
+            "fileId": "1682007729870895:11252",
+            "publicId": "1682007729871897:11905",
+            "expected_hash": "801ee81034b2ec38bf27678274ba5f32"
+        },
+        "IResourceManager": {
+            "uid": "1643831938393980:905352",
+            "name": "Files/File_1682007729870895_11252.js",
+            "flags": 1
+        }
+    },
+    "1682007729870895:11252": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870895_11252.js"
+        }
+    },
+    "1682007729871897:11905": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Hint/HintController.js",
+                "hash": "801ee81034b2ec38bf27678274ba5f32"
+            }
+        }
+    }
+}

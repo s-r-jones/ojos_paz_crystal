@@ -1,0 +1,30 @@
+{
+    "1682007729870798:10769": {
+        "IResourceController": {
+            "name": "HeaddressV1",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1662148728915243:519996",
+            "fileId": "1682007729871204:11477",
+            "originalId": "1682007729871229:11495",
+            "expected_hash": "3048d69efd49fad74e4f1a692e5fbe94"
+        },
+        "IResourceManager": {
+            "uid": "1662148728915243:519996",
+            "name": "HeaddressV1",
+            "flags": 0
+        }
+    },
+    "1682007729871204:11477": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871204_11477.oprfb"
+        }
+    },
+    "1682007729871229:11495": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871229_11495.oprfb"
+        }
+    }
+}

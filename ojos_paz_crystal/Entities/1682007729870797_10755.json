@@ -1,0 +1,30 @@
+{
+    "1682007729870797:10755": {
+        "IResourceController": {
+            "name": "church",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1662146696806134:79475",
+            "fileId": "1682007729871165:11449",
+            "originalId": "1682007729871226:11493",
+            "expected_hash": "f2e6242651e1fd485609a1c9fbb6a97b"
+        },
+        "IResourceManager": {
+            "uid": "1662146696806134:79475",
+            "name": "church",
+            "flags": 0
+        }
+    },
+    "1682007729871165:11449": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871165_11449.oprfb"
+        }
+    },
+    "1682007729871226:11493": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871226_11493.oprfb"
+        }
+    }
+}

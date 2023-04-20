@@ -1,0 +1,23 @@
+{
+    "1682007729872021:12123": {
+        "IResourceController": {
+            "public": {
+                "path": "Smoke VFX Resources"
+            }
+        }
+    },
+    "1682007729872747:12507": {
+        "IResourceController": {
+            "name": "Smoke VFX Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729872021:12123",
+            "resources": [
+                "1682007729872743:12504",
+                "1682007729872747:12506"
+            ]
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "1682007729870802:10804": {
+        "IResourceController": {
+            "name": "Location Asset Miguel Steps",
+            "type": 20,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1663018071141226:2244849"
+        },
+        "IResourceManager": {
+            "uid": "1663018071141226:2244849",
+            "name": "Location Asset",
+            "flags": 0
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1682007729870796:10753": {
+        "IResourceController": {
+            "name": "Resource",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662146696489879:79408",
+            "fileId": "1682007729871158:11444",
+            "originalId": "1682007729871159:11445",
+            "publicId": "1682007729871965:12023",
+            "expected_hash": "e4a532e818d19bff1f8ad859b19e40bd"
+        },
+        "IResourceManager": {
+            "uid": "1662146696489879:79408",
+            "name": "Files/File_1682007729871158_11444",
+            "flags": 1
+        }
+    },
+    "1682007729871158:11444": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871158_11444"
+        }
+    },
+    "1682007729871159:11445": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871159_11445.lsmat"
+        }
+    },
+    "1682007729871965:12023": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/church/Materials/Resource.lsmat",
+                "hash": "ef3e4120137106086a5d36bb266f6da3"
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1682007729872015:12102": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Mask Textures"
+            }
+        }
+    },
+    "1682007729872240:12402": {
+        "IResourceController": {
+            "name": "Mask Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729872015:12102",
+            "resources": [
+                "1682007729870846:11102"
+            ]
+        }
+    }
+}

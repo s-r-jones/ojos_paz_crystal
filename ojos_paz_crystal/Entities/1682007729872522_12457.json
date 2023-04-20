@@ -1,0 +1,40 @@
+{
+    "1682007729871167:11450": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871167_11450.fbx"
+        }
+    },
+    "1682007729871962:12021": {
+        "IResourceController": {
+            "public": {
+                "path": "church.fbx",
+                "hash": "96901a5b1a85549ca3bf289abf288552"
+            }
+        }
+    },
+    "1682007729872522:12457": {
+        "IResourceController": {
+            "name": "church",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1682007729871167:11450",
+            "publicId": "1682007729871962:12021",
+            "expected_hash": "96901a5b1a85549ca3bf289abf288552",
+            "resources": [
+                "1682007729872521:12455",
+                "1682007729872522:12456",
+                "1682007729870797:10755"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Resource",
+                        "v": "1662146696489879:79408"
+                    }
+                ]
+            }
+        }
+    }
+}

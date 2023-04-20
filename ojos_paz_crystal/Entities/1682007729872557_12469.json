@@ -1,0 +1,22 @@
+{
+    "1682007729871994:12046": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Conch/ConchV1/Materials"
+            }
+        }
+    },
+    "1682007729872557:12469": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871994:12046",
+            "resources": [
+                "1682007729870798:10773"
+            ]
+        }
+    }
+}

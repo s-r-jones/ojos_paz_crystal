@@ -1,0 +1,33 @@
+{
+    "1682007729870842:11075": {
+        "IResourceController": {
+            "name": "paz_audio_long_2",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1663959755764564:1834607",
+            "fileId": "1682007729871441:11640",
+            "publicId": "1682007729872004:12077",
+            "expected_hash": "3daa765bd10d692b26df420485ed8fdb"
+        },
+        "IResourceManager": {
+            "uid": "1663959755764564:1834607",
+            "name": "Files/File_1682007729871441_11640.mp3",
+            "flags": 1
+        }
+    },
+    "1682007729871441:11640": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871441_11640.mp3"
+        }
+    },
+    "1682007729872004:12077": {
+        "IResourceController": {
+            "public": {
+                "path": "paz_audio_long_2.mp3",
+                "hash": "3daa765bd10d692b26df420485ed8fdb"
+            }
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "1682007729870796:10749": {
+        "IResourceController": {
+            "name": "Night",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662086936154597:5052398",
+            "fileId": "1682007729871151:11439",
+            "originalId": "1682007729871153:11440",
+            "publicId": "1682007729871959:12018",
+            "expected_hash": "df2263cffd75f799d46a9ace1b4b03e5",
+            "additional": {
+                "originHash": "df2263cffd75f799d46a9ace1b4b03e5",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1662086936154597:5052398",
+            "name": "Files/File653.jpg",
+            "flags": 1
+        }
+    },
+    "1682007729871151:11439": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871151_11439.png"
+        }
+    },
+    "1682007729871153:11440": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871153_11440.png"
+        }
+    },
+    "1682007729871959:12018": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Color Correction/Night.png",
+                "hash": "df2263cffd75f799d46a9ace1b4b03e5"
+            }
+        }
+    }
+}

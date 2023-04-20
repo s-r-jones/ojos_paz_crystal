@@ -1,0 +1,39 @@
+{
+    "1682007729870833:11062": {
+        "IResourceController": {
+            "name": "Ch36_Body",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1663701414216742:279726",
+            "fileId": "1682007729871385:11604",
+            "originalId": "1682007729871387:11605",
+            "publicId": "1682007729872002:12070",
+            "expected_hash": "51492f649756fdc6beae585f4506d81b"
+        },
+        "IResourceManager": {
+            "uid": "1663701414216742:279726",
+            "name": "Files/File_1682007729871385_11604",
+            "flags": 1
+        }
+    },
+    "1682007729871385:11604": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871385_11604"
+        }
+    },
+    "1682007729871387:11605": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871387_11605.lsmat"
+        }
+    },
+    "1682007729872002:12070": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/crystal_4directions_fix_skip_5/Materials/Ch36_Body.lsmat",
+                "hash": "5a53aaeb69275a4333e199e28936d16e"
+            }
+        }
+    }
+}

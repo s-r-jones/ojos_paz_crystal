@@ -1,0 +1,33 @@
+{
+    "1682007729870753:10406": {
+        "IResourceController": {
+            "name": "CustomLandmarkerController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643831249814013:800321",
+            "fileId": "1682007729870889:11247",
+            "publicId": "1682007729871895:11900",
+            "expected_hash": "71720bd8227ea7d08a510f5c199bc55d"
+        },
+        "IResourceManager": {
+            "uid": "1643831249814013:800321",
+            "name": "Files/File_1682007729870889_11247.js",
+            "flags": 1
+        }
+    },
+    "1682007729870889:11247": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870889_11247.js"
+        }
+    },
+    "1682007729871895:11900": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/CustomLandmarkerController.js",
+                "hash": "71720bd8227ea7d08a510f5c199bc55d"
+            }
+        }
+    }
+}

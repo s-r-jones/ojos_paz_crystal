@@ -1,0 +1,17 @@
+{
+    "1682007729870819:10954": {
+        "IResourceController": {
+            "name": "mixamorig1_LeftHandIndex3",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1663699676327291:245152"
+        },
+        "IResourceManager": {
+            "uid": "1663699676327291:245152",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

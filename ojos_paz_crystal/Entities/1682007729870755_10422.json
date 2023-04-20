@@ -1,0 +1,42 @@
+{
+    "1682007729870755:10422": {
+        "IResourceController": {
+            "name": "face_sleep",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1644349401319565:47755",
+            "fileId": "1682007729870929:11277",
+            "originalId": "1682007729870930:11278",
+            "publicId": "1682007729871903:11925",
+            "expected_hash": "f85a0580a65f615527cd3e6d1180a6ad",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1644349401319565:47755",
+            "name": "Files/File_1682007729870929_11277",
+            "flags": 1
+        }
+    },
+    "1682007729870929:11277": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870929_11277"
+        }
+    },
+    "1682007729870930:11278": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870930_11278.lsmat"
+        }
+    },
+    "1682007729871903:11925": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Balloon [DELETE_ME]/Materials/face_sleep.lsmat",
+                "hash": "56fbfeb88757a7e40553a0dcb3abc0a2"
+            }
+        }
+    }
+}

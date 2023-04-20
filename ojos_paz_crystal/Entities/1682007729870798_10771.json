@@ -1,0 +1,91 @@
+{
+    "1662148922131738:550303": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1024",
+                        "uncompressed_hash": "9d76955e06806bc1a536c97cd48a400a"
+                    },
+                    "v": "1682007729871310:11552"
+                },
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "9d76955e06806bc1a536c97cd48a400a"
+                    },
+                    "v": "1682007729871322:11560"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "97176",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "356580",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682007729871308:11551"
+        }
+    },
+    "1682007729870798:10771": {
+        "IResourceController": {
+            "name": "ConchNormalsV1",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662148922131738:550303",
+            "fileId": "1682007729871210:11482",
+            "originalId": "1682007729871212:11483",
+            "publicId": "1682007729871991:12045",
+            "expected_hash": "6d915ee86558540c4b48274921f372a8",
+            "additional": {
+                "originHash": "9d76955e06806bc1a536c97cd48a400a"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1662148922131738:550303",
+            "name": "Files/File707.png",
+            "flags": 1
+        }
+    },
+    "1682007729871210:11482": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871210_11482.pvr"
+        }
+    },
+    "1682007729871212:11483": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871212_11483.png"
+        }
+    },
+    "1682007729871308:11551": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871308_11551.png"
+        }
+    },
+    "1682007729871310:11552": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871310_11552.png"
+        }
+    },
+    "1682007729871322:11560": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871322_11560.pvr"
+        }
+    },
+    "1682007729871991:12045": {
+        "IResourceController": {
+            "public": {
+                "path": "Conch/ConchNormalsV1.png",
+                "hash": "9d76955e06806bc1a536c97cd48a400a"
+            }
+        }
+    }
+}

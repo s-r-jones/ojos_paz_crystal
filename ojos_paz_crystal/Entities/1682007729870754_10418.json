@@ -1,0 +1,67 @@
+{
+    "1644349399429888:47534": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "245894",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "245894",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682007729870920:11270"
+        }
+    },
+    "1682007729870754:10418": {
+        "IResourceController": {
+            "name": "balloon_base",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1644349399429888:47534",
+            "fileId": "1682007729870917:11268",
+            "originalId": "1682007729870918:11269",
+            "publicId": "1682007729871901:11920",
+            "expected_hash": "4f281f0f9ed795207af8b88daef3483e",
+            "additional": {
+                "originHash": "4f281f0f9ed795207af8b88daef3483e",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1644349399429888:47534",
+            "name": "Files/File360.jpg",
+            "flags": 1
+        }
+    },
+    "1682007729870917:11268": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870917_11268.png"
+        }
+    },
+    "1682007729870918:11269": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870918_11269.png"
+        }
+    },
+    "1682007729870920:11270": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870920_11270.png"
+        }
+    },
+    "1682007729871901:11920": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Balloon [DELETE_ME]/Textures/balloon_base.png",
+                "hash": "4f281f0f9ed795207af8b88daef3483e"
+            }
+        }
+    }
+}

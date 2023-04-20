@@ -1,0 +1,24 @@
+{
+    "1682007729871983:12040": {
+        "IResourceController": {
+            "public": {
+                "path": "Conch"
+            }
+        }
+    },
+    "1682007729872560:12471": {
+        "IResourceController": {
+            "name": "Conch",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871983:12040",
+            "resources": [
+                "1682007729872558:12470",
+                "1682007729870798:10770",
+                "1682007729870798:10771"
+            ]
+        }
+    }
+}

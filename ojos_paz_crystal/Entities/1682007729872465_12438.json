@@ -1,0 +1,26 @@
+{
+    "1682007729871923:11979": {
+        "IResourceController": {
+            "public": {
+                "path": "Spawn Particles On Mesh Resources/Materials"
+            }
+        }
+    },
+    "1682007729872465:12438": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871923:11979",
+            "resources": [
+                "1682007729870793:10716",
+                "1682007729870793:10717",
+                "1682007729870793:10718",
+                "1682007729870836:11071",
+                "1682007729870837:11072"
+            ]
+        }
+    }
+}

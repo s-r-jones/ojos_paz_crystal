@@ -1,0 +1,49 @@
+{
+    "1682007729870855:11177": {
+        "IResourceController": {
+            "name": "deer_smoke_vfx",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1664319683429429:2558156",
+            "fileId": "1682007729871556:11721",
+            "originalId": "1682007729871557:11722",
+            "publicId": "1682007729872020:12121",
+            "expected_hash": "c94d2a223027f1e5b8c116894e2dd214",
+            "resources": [
+                "1682007762364945:99203"
+            ],
+            "additional": {
+                "GraphFilepathKey": "Files/File1036/",
+                "_exteraFile_": [
+                    "Files/File1036/vfx.vfxgraph"
+                ],
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1664319683429429:2558156",
+            "name": "Files/File_1682007729871556_11721",
+            "flags": 1
+        }
+    },
+    "1682007729871556:11721": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871556_11721"
+        }
+    },
+    "1682007729871557:11722": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871557_11722.lsvfx"
+        }
+    },
+    "1682007729872020:12121": {
+        "IResourceController": {
+            "public": {
+                "path": "VFX [DOUBLE_CLICK_VFX_ASSET]/Complex Example/deer_smoke_vfx.lsvfx",
+                "hash": "6254b11f388218a2f9b14ae6f2372292"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1682007729870857:11201": {
+        "IResourceController": {
+            "name": "AudioAnalyzer",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664919152236768:695291",
+            "fileId": "1682007729871625:11771",
+            "publicId": "1682007729872025:12137",
+            "expected_hash": "2eaae9356700253ca58d41502cd91d24"
+        },
+        "IResourceManager": {
+            "uid": "1664919152236768:695291",
+            "name": "Files/File_1682007729871625_11771.js",
+            "flags": 1
+        }
+    },
+    "1682007729871625:11771": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871625_11771.js"
+        }
+    },
+    "1682007729872025:12137": {
+        "IResourceController": {
+            "public": {
+                "path": "Audio Analyzer Resources/Scripts/AudioAnalyzer.js",
+                "hash": "2eaae9356700253ca58d41502cd91d24"
+            }
+        }
+    }
+}

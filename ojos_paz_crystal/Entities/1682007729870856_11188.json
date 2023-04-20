@@ -1,0 +1,127 @@
+{
+    "1664380983010825:695753": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1024",
+                        "uncompressed_hash": "23a4819ca6a656eacc8b1cf9170f4c3b"
+                    },
+                    "v": "1682007729871615:11764"
+                },
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "23a4819ca6a656eacc8b1cf9170f4c3b"
+                    },
+                    "v": "1682007729871618:11766"
+                },
+                {
+                    "k": {
+                        "settings_hash": "2048",
+                        "uncompressed_hash": "23a4819ca6a656eacc8b1cf9170f4c3b"
+                    },
+                    "v": "1682007729871605:11757"
+                },
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "23a4819ca6a656eacc8b1cf9170f4c3b"
+                    },
+                    "v": "1682007729871602:11755"
+                },
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "23a4819ca6a656eacc8b1cf9170f4c3b"
+                    },
+                    "v": "1682007729871616:11765"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "8192",
+                "compressedSize": "7946",
+                "extension": "png",
+                "originalRAM": "65536",
+                "originalSize": "7290",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682007729871589:11745"
+        }
+    },
+    "1682007729870856:11188": {
+        "IResourceController": {
+            "name": "smoke_realistics",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664380983010825:695753",
+            "fileId": "1682007729871586:11743",
+            "originalId": "1682007729871588:11744",
+            "publicId": "1682007729872021:12125",
+            "expected_hash": "b9f67180708371331066f1a7904acb6c",
+            "additional": {
+                "originHash": "23a4819ca6a656eacc8b1cf9170f4c3b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1664380983010825:695753",
+            "name": "Files/File1058.jpg",
+            "flags": 1
+        }
+    },
+    "1682007729871586:11743": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871586_11743.pvr"
+        }
+    },
+    "1682007729871588:11744": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871588_11744.png"
+        }
+    },
+    "1682007729871589:11745": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871589_11745.png"
+        }
+    },
+    "1682007729871602:11755": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871602_11755.pvr"
+        }
+    },
+    "1682007729871605:11757": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871605_11757.png"
+        }
+    },
+    "1682007729871615:11764": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871615_11764.png"
+        }
+    },
+    "1682007729871616:11765": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871616_11765.png"
+        }
+    },
+    "1682007729871618:11766": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871618_11766.pvr"
+        }
+    },
+    "1682007729872021:12125": {
+        "IResourceController": {
+            "public": {
+                "path": "Smoke VFX Resources/Textures/smoke_realistics.png",
+                "hash": "23a4819ca6a656eacc8b1cf9170f4c3b"
+            }
+        }
+    }
+}

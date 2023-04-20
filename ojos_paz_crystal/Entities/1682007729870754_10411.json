@@ -1,0 +1,80 @@
+{
+    "1643849752224222:1179144": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "c96ecc1d32a4b504ef4a75cd7e733617"
+                    },
+                    "v": "1682007729870907:11261"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "32188",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "53349",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682007729870906:11260"
+        }
+    },
+    "1682007729870754:10411": {
+        "IResourceController": {
+            "name": "location_icon [REPLACE_ME]",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643849752224222:1179144",
+            "fileId": "1682007729870897:11254",
+            "originalId": "1682007729870899:11255",
+            "publicId": "1682007729871898:11909",
+            "expected_hash": "30906be99f195566eed780cd04cc7169",
+            "additional": {
+                "originHash": "c96ecc1d32a4b504ef4a75cd7e733617",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1643849752224222:1179144",
+            "name": "Files/File293.png",
+            "flags": 1
+        }
+    },
+    "1682007729870897:11254": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870897_11254.pvr"
+        }
+    },
+    "1682007729870899:11255": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870899_11255.png"
+        }
+    },
+    "1682007729870906:11260": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870906_11260.png"
+        }
+    },
+    "1682007729870907:11261": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870907_11261.pvr"
+        }
+    },
+    "1682007729871898:11909": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Hint Textures/location_icon [REPLACE_ME].png",
+                "hash": "c96ecc1d32a4b504ef4a75cd7e733617"
+            }
+        }
+    }
+}

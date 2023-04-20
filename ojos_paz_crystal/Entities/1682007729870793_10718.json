@@ -1,0 +1,39 @@
+{
+    "1682007729870793:10718": {
+        "IResourceController": {
+            "name": "red_panda",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1660599279089154:119618",
+            "fileId": "1682007729871061:11372",
+            "originalId": "1682007729871063:11373",
+            "publicId": "1682007729871925:11982",
+            "expected_hash": "dd56a46ebaff56a2ab726b35c601e7e4"
+        },
+        "IResourceManager": {
+            "uid": "1660599279089154:119618",
+            "name": "Files/File_1682007729871061_11372",
+            "flags": 1
+        }
+    },
+    "1682007729871061:11372": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871061_11372"
+        }
+    },
+    "1682007729871063:11373": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871063_11373.lsmat"
+        }
+    },
+    "1682007729871925:11982": {
+        "IResourceController": {
+            "public": {
+                "path": "Spawn Particles On Mesh Resources/Materials/red_panda.lsmat",
+                "hash": "9295d6e6a1fb19a38e4c6c5c69eeabf0"
+            }
+        }
+    }
+}

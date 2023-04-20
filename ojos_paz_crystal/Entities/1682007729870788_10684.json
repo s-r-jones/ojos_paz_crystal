@@ -1,0 +1,17 @@
+{
+    "1682007729870788:10684": {
+        "IResourceController": {
+            "name": "right_atwist_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1660599278695595:118934"
+        },
+        "IResourceManager": {
+            "uid": "1660599278695595:118934",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

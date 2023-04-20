@@ -1,0 +1,17 @@
+{
+    "1682007729870826:11008": {
+        "IResourceController": {
+            "name": "mixamorig1_Neck",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1663701414194545:279230"
+        },
+        "IResourceManager": {
+            "uid": "1663701414194545:279230",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

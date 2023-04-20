@@ -1,0 +1,33 @@
+{
+    "1682007729870840:11074": {
+        "IResourceController": {
+            "name": "AudioAttachedSequence",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1663959014727362:1407751",
+            "fileId": "1682007729871440:11639",
+            "publicId": "1682007729872004:12076",
+            "expected_hash": "f5793bac6ce626715b4362d8ed35e130"
+        },
+        "IResourceManager": {
+            "uid": "1663959014727362:1407751",
+            "name": "Files/File_1682007729871440_11639.js",
+            "flags": 1
+        }
+    },
+    "1682007729871440:11639": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871440_11639.js"
+        }
+    },
+    "1682007729872004:12076": {
+        "IResourceController": {
+            "public": {
+                "path": "AudioAttachedSequence.js",
+                "hash": "f5793bac6ce626715b4362d8ed35e130"
+            }
+        }
+    }
+}

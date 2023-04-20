@@ -1,0 +1,21 @@
+{
+    "1682008472094630:1123427": {
+        "IResourceController": {
+            "public": {
+                "path": "dance",
+                "hash": "2ed51057f3fcf0daf2f45089eb67c72e"
+            }
+        }
+    },
+    "1682008472094968:1123428": {
+        "IResourceController": {
+            "name": "dance",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682008472094630:1123427",
+            "resources": []
+        }
+    }
+}

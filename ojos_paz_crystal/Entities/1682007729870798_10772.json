@@ -1,0 +1,129 @@
+{
+    "1662148923873748:565285": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "8672115290797533747",
+                        "uncompressed_hash": "5a97e78bfacaccb612c6cb3194757b7e"
+                    },
+                    "v": "1682007729871415:11624"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "703396",
+                "compressedSize": "63502",
+                "extension": "mesh",
+                "originalRAM": "703396",
+                "originalSize": "63414",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "8",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "3",
+                                "semantic": "color"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "true",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682007729871407:11619"
+        }
+    },
+    "1682007729870798:10772": {
+        "IResourceController": {
+            "name": "ConchRetopo",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1662148923873748:565285",
+            "fileId": "1682007729871213:11484",
+            "expected_hash": "ba8a9a07a240278058919a72230b435a",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "3",
+                            "semantic": "color"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1662148923873748:565285",
+            "name": "Files/File_1682007729871213_11484.mesh",
+            "flags": 1
+        }
+    },
+    "1682007729871213:11484": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871213_11484.mesh"
+        }
+    },
+    "1682007729871407:11619": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871407_11619.mesh"
+        }
+    },
+    "1682007729871415:11624": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871415_11624.mesh"
+        }
+    }
+}

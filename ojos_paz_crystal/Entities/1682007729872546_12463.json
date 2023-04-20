@@ -1,0 +1,20 @@
+{
+    "1682007729871979:12036": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Headdress/HeaddressV1/Textures"
+            }
+        }
+    },
+    "1682007729872546:12463": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871979:12036",
+            "resources": []
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1682007729870857:11202": {
+        "IResourceController": {
+            "name": "beats_material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664919152417692:695311",
+            "fileId": "1682007729871626:11772",
+            "originalId": "1682007729871627:11773",
+            "publicId": "1682007729872026:12140",
+            "expected_hash": "e290ff52972bdf1e46ac68ee78c78ba7"
+        },
+        "IResourceManager": {
+            "uid": "1664919152417692:695311",
+            "name": "Files/File_1682007729871626_11772",
+            "flags": 1
+        }
+    },
+    "1682007729871626:11772": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871626_11772"
+        }
+    },
+    "1682007729871627:11773": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871627_11773.lsmat"
+        }
+    },
+    "1682007729872026:12140": {
+        "IResourceController": {
+            "public": {
+                "path": "Audio Analyzer Resources/Beats/Materials/beats_material.lsmat",
+                "hash": "ddda9b2cb3de6b200505b2ec7979ea8b"
+            }
+        }
+    }
+}

@@ -1,0 +1,5 @@
+{
+  "goTo": "Gehe zu {{Name}}",
+  "pointAt": "Richte die Kamera auf {{Name}}",
+  "landmarkFailed": "Die {{Name}}-Landschaftsmarkierung ist nicht verfügbar,  Die Standortdaten konnten nicht geladen werden."
+}

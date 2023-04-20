@@ -1,0 +1,17 @@
+{
+    "1682007729870783:10648": {
+        "IResourceController": {
+            "name": "floater_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1660599278676892:118250"
+        },
+        "IResourceManager": {
+            "uid": "1660599278676892:118250",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

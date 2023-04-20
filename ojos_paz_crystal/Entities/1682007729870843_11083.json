@@ -1,0 +1,20 @@
+{
+    "1682007729870843:11083": {
+        "IResourceController": {
+            "name": "Glow Matte Target",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664235575744905:741438",
+            "additional": {
+                "RenderTargetRole": "2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1664235575744905:741438",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

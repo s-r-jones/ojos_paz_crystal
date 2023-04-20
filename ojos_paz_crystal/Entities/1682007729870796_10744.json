@@ -1,0 +1,125 @@
+{
+    "1662084675938924:4366585": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "78368",
+                "compressedSize": "33196",
+                "extension": "mesh",
+                "originalRAM": "78368",
+                "originalSize": "33196",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "boneData"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682007729871137:11428"
+        }
+    },
+    "1682007729870796:10744": {
+        "IResourceController": {
+            "name": "C_throne_GEO",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662084675938924:4366585",
+            "fileId": "1682007729871135:11427",
+            "publicId": "1682007729871955:12012",
+            "expected_hash": "f41b3feac0228df4708105623a48b91f",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "boneData"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1662084675938924:4366585",
+            "name": "Files/File_1682007729871135_11427.mesh",
+            "flags": 1
+        }
+    },
+    "1682007729871135:11427": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871135_11427.mesh"
+        }
+    },
+    "1682007729871137:11428": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871137_11428.mesh"
+        }
+    },
+    "1682007729871955:12012": {
+        "IResourceController": {
+            "public": {
+                "path": "Screen Space Normals Resources/Meshes/C_throne_GEO.mesh",
+                "hash": "f41b3feac0228df4708105623a48b91f"
+            }
+        }
+    }
+}

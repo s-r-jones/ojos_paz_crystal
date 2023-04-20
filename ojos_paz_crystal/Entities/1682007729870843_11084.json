@@ -1,0 +1,42 @@
+{
+    "1682007729870843:11084": {
+        "IResourceController": {
+            "name": "Cinematic Glow Renderer",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664235575940762:741456",
+            "fileId": "1682007729871462:11654",
+            "originalId": "1682007729871463:11655",
+            "publicId": "1682007729872007:12088",
+            "expected_hash": "6a74ea77b7c4d1bb906d7d91bdacb82f",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1664235575940762:741456",
+            "name": "Files/File_1682007729871462_11654",
+            "flags": 1
+        }
+    },
+    "1682007729871462:11654": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871462_11654"
+        }
+    },
+    "1682007729871463:11655": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871463_11655.lsmat"
+        }
+    },
+    "1682007729872007:12088": {
+        "IResourceController": {
+            "public": {
+                "path": "Cinematic Glow/System/Cinematic Glow Renderer.lsmat",
+                "hash": "9218f93fe96d64b1ebfb5db99c9f3322"
+            }
+        }
+    }
+}

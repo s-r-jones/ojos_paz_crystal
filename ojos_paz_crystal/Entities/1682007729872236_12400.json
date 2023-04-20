@@ -1,0 +1,22 @@
+{
+    "1682007729871957:12017": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Color Correction"
+            }
+        }
+    },
+    "1682007729872236:12400": {
+        "IResourceController": {
+            "name": "Color Correction",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871957:12017",
+            "resources": [
+                "1682007729870796:10749"
+            ]
+        }
+    }
+}

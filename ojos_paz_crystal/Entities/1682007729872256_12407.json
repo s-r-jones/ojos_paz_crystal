@@ -1,0 +1,24 @@
+{
+    "1682007729871900:11915": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Balloon [DELETE_ME]/Meshes"
+            }
+        }
+    },
+    "1682007729872256:12407": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871900:11915",
+            "resources": [
+                "1682007729870754:10415",
+                "1682007729870754:10416",
+                "1682007729870754:10417"
+            ]
+        }
+    }
+}

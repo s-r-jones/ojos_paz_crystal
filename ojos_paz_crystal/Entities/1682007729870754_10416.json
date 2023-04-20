@@ -1,0 +1,116 @@
+{
+    "1644349399314140:47478": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "12912",
+                "compressedSize": "11443",
+                "extension": "mesh",
+                "originalRAM": "12912",
+                "originalSize": "11443",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682007729870913:11265"
+        }
+    },
+    "1682007729870754:10416": {
+        "IResourceController": {
+            "name": "Face",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1644349399314140:47478",
+            "fileId": "1682007729870911:11264",
+            "publicId": "1682007729871901:11917",
+            "expected_hash": "a4a9a1e49aa992245bca8498a5e3714d",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "hasSkinBones": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1644349399314140:47478",
+            "name": "Files/File_1682007729870911_11264.mesh",
+            "flags": 1
+        }
+    },
+    "1682007729870911:11264": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870911_11264.mesh"
+        }
+    },
+    "1682007729870913:11265": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870913_11265.mesh"
+        }
+    },
+    "1682007729871901:11917": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Balloon [DELETE_ME]/Meshes/Face.mesh",
+                "hash": "a4a9a1e49aa992245bca8498a5e3714d"
+            }
+        }
+    }
+}

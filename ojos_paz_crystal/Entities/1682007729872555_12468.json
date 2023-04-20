@@ -1,0 +1,20 @@
+{
+    "1682007729871984:12043": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Conch/ConchV1/Textures"
+            }
+        }
+    },
+    "1682007729872555:12468": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871984:12043",
+            "resources": []
+        }
+    }
+}

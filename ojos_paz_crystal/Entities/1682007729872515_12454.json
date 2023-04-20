@@ -1,0 +1,25 @@
+{
+    "1682007729871944:12003": {
+        "IResourceController": {
+            "public": {
+                "path": "Screen Space Normals Resources"
+            }
+        }
+    },
+    "1682007729872515:12454": {
+        "IResourceController": {
+            "name": "Screen Space Normals Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871944:12003",
+            "resources": [
+                "1682007729872507:12450",
+                "1682007729872509:12451",
+                "1682007729872510:12452",
+                "1682007729872515:12453"
+            ]
+        }
+    }
+}

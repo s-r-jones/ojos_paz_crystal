@@ -1,0 +1,80 @@
+{
+    "1664319680668909:2557403": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "a2f9db489ab3d7966cc33f759f27c004"
+                    },
+                    "v": "1682007729871572:11732"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "16384",
+                "compressedSize": "144813",
+                "extension": "png",
+                "originalRAM": "16384",
+                "originalSize": "406352",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "21",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682007729871524:11698"
+        }
+    },
+    "1682007729870847:11104": {
+        "IResourceController": {
+            "name": "perlin_noise_3d",
+            "type": 1,
+            "subtype": 21,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664319680668909:2557403",
+            "fileId": "1682007729871522:11696",
+            "originalId": "1682007729871523:11697",
+            "publicId": "1682007729872016:12107",
+            "expected_hash": "151b3bbc8d1a9f9402c1e263bfd4ef0a",
+            "additional": {
+                "originHash": "a2f9db489ab3d7966cc33f759f27c004",
+                "subtype": "21"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1664319680668909:2557403",
+            "name": "Files/File1011.jpg",
+            "flags": 1
+        }
+    },
+    "1682007729871522:11696": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871522_11696.png"
+        }
+    },
+    "1682007729871523:11697": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871523_11697.png"
+        }
+    },
+    "1682007729871524:11698": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871524_11698.png"
+        }
+    },
+    "1682007729871572:11732": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871572_11732.png"
+        }
+    },
+    "1682007729872016:12107": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Noise Textures/perlin_noise_3d.png",
+                "hash": "a2f9db489ab3d7966cc33f759f27c004"
+            }
+        }
+    }
+}

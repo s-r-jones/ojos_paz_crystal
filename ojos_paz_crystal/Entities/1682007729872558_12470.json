@@ -1,0 +1,41 @@
+{
+    "1682007729871223:11491": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871223_11491.fbx"
+        }
+    },
+    "1682007729871984:12042": {
+        "IResourceController": {
+            "public": {
+                "path": "Conch/ConchV1.fbx",
+                "hash": "8cffa1524cec0aeb2d5fa1bc7cdbd4e7"
+            }
+        }
+    },
+    "1682007729872558:12470": {
+        "IResourceController": {
+            "name": "ConchV1",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1682007729871223:11491",
+            "publicId": "1682007729871984:12042",
+            "expected_hash": "8cffa1524cec0aeb2d5fa1bc7cdbd4e7",
+            "resources": [
+                "1682007729872555:12467",
+                "1682007729872555:12468",
+                "1682007729872557:12469",
+                "1682007729870799:10775"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1662148924551227:565295"
+                    }
+                ]
+            }
+        }
+    }
+}

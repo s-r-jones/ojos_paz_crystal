@@ -1,0 +1,79 @@
+{
+    "1662084675958355:4366596": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "8bdcb04d726a39b1dc419eae27fa9974"
+                    },
+                    "v": "1682007729871147:11436"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "43174",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "52441",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682007729871141:11431"
+        }
+    },
+    "1682007729870796:10745": {
+        "IResourceController": {
+            "name": "throne_color",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662084675958355:4366596",
+            "fileId": "1682007729871138:11429",
+            "originalId": "1682007729871139:11430",
+            "publicId": "1682007729871956:12013",
+            "expected_hash": "a6ad365b4e8d0c52d6e3caf572f3c74d",
+            "additional": {
+                "originHash": "8bdcb04d726a39b1dc419eae27fa9974"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1662084675958355:4366596",
+            "name": "Files/File643.jpg",
+            "flags": 1
+        }
+    },
+    "1682007729871138:11429": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871138_11429.pvr"
+        }
+    },
+    "1682007729871139:11430": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871139_11430.png"
+        }
+    },
+    "1682007729871141:11431": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871141_11431.png"
+        }
+    },
+    "1682007729871147:11436": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871147_11436.pvr"
+        }
+    },
+    "1682007729871956:12013": {
+        "IResourceController": {
+            "public": {
+                "path": "Screen Space Normals Resources/Textures/throne_color.png",
+                "hash": "8bdcb04d726a39b1dc419eae27fa9974"
+            }
+        }
+    }
+}

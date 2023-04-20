@@ -1,0 +1,39 @@
+{
+    "1682007729870856:11187": {
+        "IResourceController": {
+            "name": "SmokeVFX__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664380982912262:695692",
+            "fileId": "1682007729871585:11742",
+            "originalId": "1682007729871604:11756",
+            "publicId": "1682007729872022:12128",
+            "expected_hash": "7d47052fc76791ba3bc8b565f84f1a4a"
+        },
+        "IResourceManager": {
+            "uid": "1664380982912262:695692",
+            "name": "sceneObject_1",
+            "flags": 0
+        }
+    },
+    "1682007729871585:11742": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871585_11742.oprfb"
+        }
+    },
+    "1682007729871604:11756": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871604_11756.oprfb"
+        }
+    },
+    "1682007729872022:12128": {
+        "IResourceController": {
+            "public": {
+                "path": "SmokeVFX__PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "7d47052fc76791ba3bc8b565f84f1a4a"
+            }
+        }
+    }
+}

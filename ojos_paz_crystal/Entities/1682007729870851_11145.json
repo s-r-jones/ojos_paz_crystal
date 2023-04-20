@@ -1,0 +1,17 @@
+{
+    "1682007729870851:11145": {
+        "IResourceController": {
+            "name": "left_rein_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664319681715872:2557678"
+        },
+        "IResourceManager": {
+            "uid": "1664319681715872:2557678",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

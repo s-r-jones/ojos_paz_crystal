@@ -1,0 +1,5 @@
+{
+  "goTo": "Đi Đến {{Name}}",
+  "pointAt": "Hướng Thiết Bị Về Phía {{Name}}",
+  "landmarkFailed": "Không Xác Định Được Cột Mốc {{Name}},  Không thể tải dữ liệu vị trí"
+}

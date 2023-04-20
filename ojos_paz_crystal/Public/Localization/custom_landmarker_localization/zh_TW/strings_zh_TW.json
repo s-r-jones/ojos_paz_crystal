@@ -1,0 +1,5 @@
+{
+  "goTo": "走向 {{Name}}",
+  "pointAt": "指向 {{Name}}",
+  "landmarkFailed": "無法使用 {{Name}} 地標，  無法載入地點資料"
+}

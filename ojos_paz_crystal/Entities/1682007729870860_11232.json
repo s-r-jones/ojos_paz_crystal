@@ -1,0 +1,42 @@
+{
+    "1682007729870860:11232": {
+        "IResourceController": {
+            "name": "Night 2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1665092374414220:640368",
+            "fileId": "1682007729871774:11876",
+            "originalId": "1682007729871775:11877",
+            "publicId": "1682007729872035:12170",
+            "expected_hash": "df2263cffd75f799d46a9ace1b4b03e5",
+            "additional": {
+                "originHash": "df2263cffd75f799d46a9ace1b4b03e5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1665092374414220:640368",
+            "name": "Files/File_1682007729871774_11876.png",
+            "flags": 1
+        }
+    },
+    "1682007729871774:11876": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871774_11876.png"
+        }
+    },
+    "1682007729871775:11877": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871775_11877.png"
+        }
+    },
+    "1682007729872035:12170": {
+        "IResourceController": {
+            "public": {
+                "path": "Night 2.png",
+                "hash": "df2263cffd75f799d46a9ace1b4b03e5"
+            }
+        }
+    }
+}

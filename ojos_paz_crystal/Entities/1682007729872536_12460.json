@@ -1,0 +1,40 @@
+{
+    "1682007729871187:11465": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871187_11465.fbx"
+        }
+    },
+    "1682007729871971:12029": {
+        "IResourceController": {
+            "public": {
+                "path": "drum/DrumV1.fbx",
+                "hash": "a794a6a3c71060d39ae5c99c47184cbd"
+            }
+        }
+    },
+    "1682007729872536:12460": {
+        "IResourceController": {
+            "name": "DrumV1",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1682007729871187:11465",
+            "publicId": "1682007729871971:12029",
+            "expected_hash": "a794a6a3c71060d39ae5c99c47184cbd",
+            "resources": [
+                "1682007729872535:12458",
+                "1682007729872536:12459",
+                "1682007729870797:10763"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1662148621445098:474708"
+                    }
+                ]
+            }
+        }
+    }
+}

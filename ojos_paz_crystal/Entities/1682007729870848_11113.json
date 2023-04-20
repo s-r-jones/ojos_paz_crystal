@@ -1,0 +1,17 @@
+{
+    "1682007729870848:11113": {
+        "IResourceController": {
+            "name": "spine1_hiResSpine3",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664319681609800:2557546"
+        },
+        "IResourceManager": {
+            "uid": "1664319681609800:2557546",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

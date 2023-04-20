@@ -1,0 +1,17 @@
+{
+    "1682007729870852:11152": {
+        "IResourceController": {
+            "name": "leftLeg2_HiResLowerLeg",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664319681721927:2557706"
+        },
+        "IResourceManager": {
+            "uid": "1664319681721927:2557706",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

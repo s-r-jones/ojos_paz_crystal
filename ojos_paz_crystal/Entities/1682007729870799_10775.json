@@ -1,0 +1,30 @@
+{
+    "1682007729870799:10775": {
+        "IResourceController": {
+            "name": "ConchV1",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1662148924816073:565362",
+            "fileId": "1682007729871222:11490",
+            "originalId": "1682007729871230:11496",
+            "expected_hash": "d4d4320b5fc9ec84243b749098231164"
+        },
+        "IResourceManager": {
+            "uid": "1662148924816073:565362",
+            "name": "ConchV1",
+            "flags": 0
+        }
+    },
+    "1682007729871222:11490": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871222_11490.oprfb"
+        }
+    },
+    "1682007729871230:11496": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871230_11496.oprfb"
+        }
+    }
+}

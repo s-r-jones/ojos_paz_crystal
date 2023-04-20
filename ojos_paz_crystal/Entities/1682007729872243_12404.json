@@ -1,0 +1,22 @@
+{
+    "1682007729872016:12106": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Noise Textures"
+            }
+        }
+    },
+    "1682007729872243:12404": {
+        "IResourceController": {
+            "name": "Noise Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729872016:12106",
+            "resources": [
+                "1682007729870847:11104"
+            ]
+        }
+    }
+}

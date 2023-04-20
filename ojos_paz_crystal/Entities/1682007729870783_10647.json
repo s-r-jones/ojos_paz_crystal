@@ -1,0 +1,17 @@
+{
+    "1682007729870783:10647": {
+        "IResourceController": {
+            "name": "FLOATER_JNT_GRP",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1660599278675467:118231"
+        },
+        "IResourceManager": {
+            "uid": "1660599278675467:118231",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

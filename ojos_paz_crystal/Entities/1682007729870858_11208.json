@@ -1,0 +1,79 @@
+{
+    "1665070296806986:611816": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "5792bd44ae619fffc3c50d8942871d6d"
+                    },
+                    "v": "1682007729871666:11799"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "264918",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "1047385",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682007729871646:11787"
+        }
+    },
+    "1682007729870858:11208": {
+        "IResourceController": {
+            "name": "DrumAlbedoV1-2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1665070296806986:611816",
+            "fileId": "1682007729871644:11785",
+            "originalId": "1682007729871645:11786",
+            "publicId": "1682007729872029:12150",
+            "expected_hash": "649e48204cabd4e29c9a14124d5d2b70",
+            "additional": {
+                "originHash": "5792bd44ae619fffc3c50d8942871d6d"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1665070296806986:611816",
+            "name": "Files/File1100.png",
+            "flags": 1
+        }
+    },
+    "1682007729871644:11785": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871644_11785.pvr"
+        }
+    },
+    "1682007729871645:11786": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871645_11786.png"
+        }
+    },
+    "1682007729871646:11787": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871646_11787.png"
+        }
+    },
+    "1682007729871666:11799": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871666_11799.pvr"
+        }
+    },
+    "1682007729872029:12150": {
+        "IResourceController": {
+            "public": {
+                "path": "Particle Textures/DrumAlbedoV1-2.png",
+                "hash": "5792bd44ae619fffc3c50d8942871d6d"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1682007729870756:10426": {
+        "IResourceController": {
+            "name": "SetRenderOrder",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1644362472746767:844437",
+            "fileId": "1682007729870937:11283",
+            "publicId": "1682007729871904:11929",
+            "expected_hash": "7a96add104d238855d2d8ea02d658fdb"
+        },
+        "IResourceManager": {
+            "uid": "1644362472746767:844437",
+            "name": "Files/File_1682007729870937_11283.js",
+            "flags": 1
+        }
+    },
+    "1682007729870937:11283": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870937_11283.js"
+        }
+    },
+    "1682007729871904:11929": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/HelperScripts/SetRenderOrder.js",
+                "hash": "7a96add104d238855d2d8ea02d658fdb"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1682007729870756:10429": {
+        "IResourceController": {
+            "name": "baloon_sleep",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1644867147579537:213107",
+            "fileId": "1682007729870944:11288",
+            "originalId": "1682007729870946:11289",
+            "publicId": "1682007729871904:11931",
+            "expected_hash": "d3fcb5c4003e3aded4fc17ecd141ec30"
+        },
+        "IResourceManager": {
+            "uid": "1644867147579537:213107",
+            "name": "Files/File_1682007729870944_11288",
+            "flags": 1
+        }
+    },
+    "1682007729870944:11288": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870944_11288"
+        }
+    },
+    "1682007729870946:11289": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870946_11289.lsmat"
+        }
+    },
+    "1682007729871904:11931": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Balloon [DELETE_ME]/Materials/baloon_sleep.lsmat",
+                "hash": "8f4333d4bc674c80887c4a84846a765c"
+            }
+        }
+    }
+}

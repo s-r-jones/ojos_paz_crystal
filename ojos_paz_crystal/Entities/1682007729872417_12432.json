@@ -1,0 +1,22 @@
+{
+    "1682007729871918:11969": {
+        "IResourceController": {
+            "public": {
+                "path": "Spawn Particles On Mesh Resources/Scripts"
+            }
+        }
+    },
+    "1682007729872417:12432": {
+        "IResourceController": {
+            "name": "Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871918:11969",
+            "resources": [
+                "1682007729870783:10643"
+            ]
+        }
+    }
+}

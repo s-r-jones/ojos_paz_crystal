@@ -1,0 +1,22 @@
+{
+    "1682007729871999:12057": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/crystal_4directions_fix_skip_10/Materials"
+            }
+        }
+    },
+    "1682007729872601:12477": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871999:12057",
+            "resources": [
+                "1682007729870808:10866"
+            ]
+        }
+    }
+}

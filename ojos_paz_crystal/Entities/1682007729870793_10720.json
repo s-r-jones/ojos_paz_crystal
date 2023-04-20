@@ -1,0 +1,42 @@
+{
+    "1682007729870793:10720": {
+        "IResourceController": {
+            "name": "spawn_on_mesh_body",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1660599279307790:119655",
+            "fileId": "1682007729871067:11376",
+            "originalId": "1682007729871068:11377",
+            "publicId": "1682007729871927:11985",
+            "expected_hash": "41c4ce9090cbe2edad936a71c9245845",
+            "resources": [
+                "1682007778964027:103719"
+            ]
+        },
+        "IResourceManager": {
+            "uid": "1660599279307790:119655",
+            "name": "Files/File_1682007729871067_11376",
+            "flags": 1
+        }
+    },
+    "1682007729871067:11376": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871067_11376"
+        }
+    },
+    "1682007729871068:11377": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871068_11377.lsvfx"
+        }
+    },
+    "1682007729871927:11985": {
+        "IResourceController": {
+            "public": {
+                "path": "Spawn Particles On Mesh Resources/VFX/spawn_on_mesh_body.lsvfx",
+                "hash": "5235d981fb4afd7833432244af3fad02"
+            }
+        }
+    }
+}

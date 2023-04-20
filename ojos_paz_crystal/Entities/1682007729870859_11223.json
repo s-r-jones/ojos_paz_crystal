@@ -1,0 +1,103 @@
+{
+    "1665073614250586:866918": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1024",
+                        "uncompressed_hash": "be9bf0ad5334b5bf3675da93ae92d38e"
+                    },
+                    "v": "1682007729871746:11857"
+                },
+                {
+                    "k": {
+                        "settings_hash": "2048",
+                        "uncompressed_hash": "be9bf0ad5334b5bf3675da93ae92d38e"
+                    },
+                    "v": "1682007729871745:11856"
+                },
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "be9bf0ad5334b5bf3675da93ae92d38e"
+                    },
+                    "v": "1682007729871721:11839"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "342197",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "1703234",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682007729871720:11838"
+        }
+    },
+    "1682007729870859:11223": {
+        "IResourceController": {
+            "name": "drum_5",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1665073614250586:866918",
+            "fileId": "1682007729871717:11836",
+            "originalId": "1682007729871719:11837",
+            "publicId": "1682007729872033:12161",
+            "expected_hash": "adf86b6d203fe366173e691b677330f8",
+            "additional": {
+                "originHash": "be9bf0ad5334b5bf3675da93ae92d38e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1665073614250586:866918",
+            "name": "Files/File_1682007729871717_11836.png",
+            "flags": 1
+        }
+    },
+    "1682007729871717:11836": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871717_11836.png"
+        }
+    },
+    "1682007729871719:11837": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871719_11837.png"
+        }
+    },
+    "1682007729871720:11838": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871720_11838.png"
+        }
+    },
+    "1682007729871721:11839": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871721_11839.pvr"
+        }
+    },
+    "1682007729871745:11856": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871745_11856.png"
+        }
+    },
+    "1682007729871746:11857": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871746_11857.png"
+        }
+    },
+    "1682007729872033:12161": {
+        "IResourceController": {
+            "public": {
+                "path": "Particle Textures/drum_5.png",
+                "hash": "be9bf0ad5334b5bf3675da93ae92d38e"
+            }
+        }
+    }
+}

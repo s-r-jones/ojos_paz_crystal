@@ -1,0 +1,41 @@
+{
+    "1682007729871205:11478": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871205_11478.fbx"
+        }
+    },
+    "1682007729871977:12035": {
+        "IResourceController": {
+            "public": {
+                "path": "Headdress/HeaddressV1.fbx",
+                "hash": "a395b57f8fdd2ff21101bf530ba704a2"
+            }
+        }
+    },
+    "1682007729872547:12465": {
+        "IResourceController": {
+            "name": "HeaddressV1",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1682007729871205:11478",
+            "publicId": "1682007729871977:12035",
+            "expected_hash": "a395b57f8fdd2ff21101bf530ba704a2",
+            "resources": [
+                "1682007729872545:12462",
+                "1682007729872546:12463",
+                "1682007729872547:12464",
+                "1682007729870798:10769"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1662148728643658:519929"
+                    }
+                ]
+            }
+        }
+    }
+}

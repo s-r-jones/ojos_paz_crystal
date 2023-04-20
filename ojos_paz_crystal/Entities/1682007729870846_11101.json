@@ -1,0 +1,43 @@
+{
+    "1682007729870846:11101": {
+        "IResourceController": {
+            "name": "deer_ramp",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664319680312572:2557365",
+            "fileId": "1682007729871510:11688",
+            "originalId": "1682007729871512:11689",
+            "publicId": "1682007729872014:12101",
+            "expected_hash": "34752640bd85fe7c34bf312bc1350650",
+            "additional": {
+                "originHash": "34752640bd85fe7c34bf312bc1350650",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1664319680312572:2557365",
+            "name": "Files/File1003.jpg",
+            "flags": 1
+        }
+    },
+    "1682007729871510:11688": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871510_11688.png"
+        }
+    },
+    "1682007729871512:11689": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871512_11689.png"
+        }
+    },
+    "1682007729872014:12101": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Ramp Textures/deer_ramp.png",
+                "hash": "34752640bd85fe7c34bf312bc1350650"
+            }
+        }
+    }
+}

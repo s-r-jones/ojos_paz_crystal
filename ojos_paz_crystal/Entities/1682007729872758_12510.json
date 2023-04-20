@@ -1,0 +1,22 @@
+{
+    "1682007729872026:12142": {
+        "IResourceController": {
+            "public": {
+                "path": "Audio Analyzer Resources/Beats/Meshes"
+            }
+        }
+    },
+    "1682007729872758:12510": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729872026:12142",
+            "resources": [
+                "1682007729870857:11204"
+            ]
+        }
+    }
+}

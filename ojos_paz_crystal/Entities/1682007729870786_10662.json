@@ -1,0 +1,17 @@
+{
+    "1682007729870786:10662": {
+        "IResourceController": {
+            "name": "Spine_03_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1660599278684071:118516"
+        },
+        "IResourceManager": {
+            "uid": "1660599278684071:118516",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

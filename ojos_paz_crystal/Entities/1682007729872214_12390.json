@@ -1,0 +1,23 @@
+{
+    "1682007729871898:11910": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Hint Materials"
+            }
+        }
+    },
+    "1682007729872214:12390": {
+        "IResourceController": {
+            "name": "Hint Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871898:11910",
+            "resources": [
+                "1682007729870754:10412",
+                "1682007729870856:11194"
+            ]
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1665072205082796:419254": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "639615d56746a41a4795b97c41b5cf2f"
+                    },
+                    "v": "1682007729871699:11823"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "78722",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "215860",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682007729871698:11822"
+        }
+    },
+    "1682007729870859:11219": {
+        "IResourceController": {
+            "name": "texture_ 3",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1665072205082796:419254",
+            "fileId": "1682007729871695:11820",
+            "originalId": "1682007729871696:11821",
+            "publicId": "1682007729872031:12157",
+            "expected_hash": "7513f73821997393d4a035f5e1d8980d",
+            "additional": {
+                "originHash": "639615d56746a41a4795b97c41b5cf2f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1665072205082796:419254",
+            "name": "Files/File1135.png",
+            "flags": 1
+        }
+    },
+    "1682007729871695:11820": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871695_11820.pvr"
+        }
+    },
+    "1682007729871696:11821": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871696_11821.png"
+        }
+    },
+    "1682007729871698:11822": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871698_11822.png"
+        }
+    },
+    "1682007729871699:11823": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871699_11823.pvr"
+        }
+    },
+    "1682007729872031:12157": {
+        "IResourceController": {
+            "public": {
+                "path": "Spawn Particles On Mesh Resources/VFX/texture_ 3.png",
+                "hash": "639615d56746a41a4795b97c41b5cf2f"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1682007729870793:10723": {
+        "IResourceController": {
+            "name": "DEPTH_TO_POINT_CLOUD 2",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662069593780479:2539616",
+            "fileId": "1682007729871080:11386",
+            "originalId": "1682007729871108:11407",
+            "publicId": "1682007729871930:11989",
+            "expected_hash": "d2ef9e77888bfec193a2a0370dcbe151"
+        },
+        "IResourceManager": {
+            "uid": "1662069593780479:2539616",
+            "name": "sceneObject_0",
+            "flags": 0
+        }
+    },
+    "1682007729871080:11386": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871080_11386.oprfb"
+        }
+    },
+    "1682007729871108:11407": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871108_11407.oprfb"
+        }
+    },
+    "1682007729871930:11989": {
+        "IResourceController": {
+            "public": {
+                "path": "DEPTH_TO_POINT_CLOUD 2.oprfb",
+                "hash": "d2ef9e77888bfec193a2a0370dcbe151"
+            }
+        }
+    }
+}

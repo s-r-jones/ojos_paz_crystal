@@ -1,0 +1,79 @@
+{
+    "1667045185283224:72642": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "1f94241112c8df31067cc2bbb36e6748"
+                    },
+                    "v": "1682007729871788:11886"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2263200",
+                "compressedSize": "65392",
+                "extension": "jpg",
+                "originalRAM": "2263200",
+                "originalSize": "65392",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682007729871784:11883"
+        }
+    },
+    "1682007729870861:11234": {
+        "IResourceController": {
+            "name": "Sticker_Virgil-small",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1667045185283224:72642",
+            "fileId": "1682007729871781:11881",
+            "originalId": "1682007729871783:11882",
+            "publicId": "1682007729872036:12172",
+            "expected_hash": "1f94241112c8df31067cc2bbb36e6748",
+            "additional": {
+                "originHash": "1f94241112c8df31067cc2bbb36e6748"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1667045185283224:72642",
+            "name": "Files/File_1682007729871781_11881.jpg",
+            "flags": 1
+        }
+    },
+    "1682007729871781:11881": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871781_11881.jpg"
+        }
+    },
+    "1682007729871783:11882": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871783_11882.jpg"
+        }
+    },
+    "1682007729871784:11883": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871784_11883.jpg"
+        }
+    },
+    "1682007729871788:11886": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871788_11886.jpg"
+        }
+    },
+    "1682007729872036:12172": {
+        "IResourceController": {
+            "public": {
+                "path": "Sticker_Virgil-small.jpg",
+                "hash": "1f94241112c8df31067cc2bbb36e6748"
+            }
+        }
+    }
+}

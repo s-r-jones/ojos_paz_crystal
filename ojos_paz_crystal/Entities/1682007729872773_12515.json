@@ -1,0 +1,23 @@
+{
+    "1682007729872036:12173": {
+        "IResourceController": {
+            "public": {
+                "path": "ExtendedMarkerTracking",
+                "hash": "e8e68f37ac2ecee614e132ac4db6d16c"
+            }
+        }
+    },
+    "1682007729872773:12515": {
+        "IResourceController": {
+            "name": "ExtendedMarkerTracking",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729872036:12173",
+            "resources": [
+                "1682007729870861:11235"
+            ]
+        }
+    }
+}

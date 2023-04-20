@@ -1,0 +1,17 @@
+{
+    "1682007729870788:10681": {
+        "IResourceController": {
+            "name": "left_finger_04_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1660599278693961:118877"
+        },
+        "IResourceManager": {
+            "uid": "1660599278693961:118877",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1682007729870857:11200": {
+        "IResourceController": {
+            "name": "Audio_Analyzer__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664919152174722:695237",
+            "fileId": "1682007729871623:11770",
+            "originalId": "1682007729871634:11778",
+            "publicId": "1682007729872027:12146",
+            "expected_hash": "286e66a4e5b1e1a841b50b574287e9d1"
+        },
+        "IResourceManager": {
+            "uid": "1664919152174722:695237",
+            "name": "sceneObject_0",
+            "flags": 0
+        }
+    },
+    "1682007729871623:11770": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871623_11770.oprfb"
+        }
+    },
+    "1682007729871634:11778": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871634_11778.oprfb"
+        }
+    },
+    "1682007729872027:12146": {
+        "IResourceController": {
+            "public": {
+                "path": "Audio_Analyzer__PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "286e66a4e5b1e1a841b50b574287e9d1"
+            }
+        }
+    }
+}

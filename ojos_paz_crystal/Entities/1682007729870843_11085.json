@@ -1,0 +1,33 @@
+{
+    "1682007729870843:11085": {
+        "IResourceController": {
+            "name": "Cinematic Glow",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664235576041090:741566",
+            "fileId": "1682007729871464:11656",
+            "publicId": "1682007729872007:12089",
+            "expected_hash": "b333ee74d659fd8ef743bb56f2eece08"
+        },
+        "IResourceManager": {
+            "uid": "1664235576041090:741566",
+            "name": "Files/File_1682007729871464_11656.js",
+            "flags": 1
+        }
+    },
+    "1682007729871464:11656": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871464_11656.js"
+        }
+    },
+    "1682007729872007:12089": {
+        "IResourceController": {
+            "public": {
+                "path": "Cinematic Glow/System/Cinematic Glow.js",
+                "hash": "b333ee74d659fd8ef743bb56f2eece08"
+            }
+        }
+    }
+}

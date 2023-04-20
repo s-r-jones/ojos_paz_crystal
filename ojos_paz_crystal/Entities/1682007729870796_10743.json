@@ -1,0 +1,33 @@
+{
+    "1682007729870796:10743": {
+        "IResourceController": {
+            "name": "ScreenSpaceNormals",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662084675909921:4366574",
+            "fileId": "1682007729871134:11426",
+            "publicId": "1682007729871953:12010",
+            "expected_hash": "5460dd82a9891bd8a0dde49e79971eb3"
+        },
+        "IResourceManager": {
+            "uid": "1662084675909921:4366574",
+            "name": "Files/File_1682007729871134_11426.js",
+            "flags": 1
+        }
+    },
+    "1682007729871134:11426": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871134_11426.js"
+        }
+    },
+    "1682007729871953:12010": {
+        "IResourceController": {
+            "public": {
+                "path": "Screen Space Normals Resources/Script/ScreenSpaceNormals.js",
+                "hash": "5460dd82a9891bd8a0dde49e79971eb3"
+            }
+        }
+    }
+}

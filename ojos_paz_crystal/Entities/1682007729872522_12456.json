@@ -1,0 +1,22 @@
+{
+    "1682007729871962:12022": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/church/Materials"
+            }
+        }
+    },
+    "1682007729872522:12456": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871962:12022",
+            "resources": [
+                "1682007729870796:10753"
+            ]
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "1682007729871922:11975": {
+        "IResourceController": {
+            "public": {
+                "path": "Spawn Particles On Mesh Resources/Meshes/Red Panda/Textures"
+            }
+        }
+    },
+    "1682007729872431:12434": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871922:11975",
+            "resources": [
+                "1682007729870783:10645",
+                "1682007729870793:10719",
+                "1682007729870794:10733"
+            ]
+        }
+    }
+}

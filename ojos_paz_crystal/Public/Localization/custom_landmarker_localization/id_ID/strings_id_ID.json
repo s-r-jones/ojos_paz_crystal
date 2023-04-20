@@ -1,0 +1,5 @@
+{
+  "goTo": "Menuju {{Name}}",
+  "pointAt": "Tunjuk {{Name}}",
+  "landmarkFailed": "{{Name}} Patokan Tidak Tersedia  Data lokasi tidak dapat dimuat"
+}

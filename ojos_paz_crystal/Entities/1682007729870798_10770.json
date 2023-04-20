@@ -1,0 +1,91 @@
+{
+    "1662148921847299:550296": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1024",
+                        "uncompressed_hash": "a9f57a8b4edd68643e0e4e0fc1abf5bb"
+                    },
+                    "v": "1682007729871307:11550"
+                },
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "a9f57a8b4edd68643e0e4e0fc1abf5bb"
+                    },
+                    "v": "1682007729871320:11559"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "388072",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "1147597",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682007729871305:11549"
+        }
+    },
+    "1682007729870798:10770": {
+        "IResourceController": {
+            "name": "ConchAlbedoV1",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662148921847299:550296",
+            "fileId": "1682007729871207:11480",
+            "originalId": "1682007729871209:11481",
+            "publicId": "1682007729871988:12044",
+            "expected_hash": "c3439f20569505abe82a7ed9150e9936",
+            "additional": {
+                "originHash": "a9f57a8b4edd68643e0e4e0fc1abf5bb"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1662148921847299:550296",
+            "name": "Files/File704.png",
+            "flags": 1
+        }
+    },
+    "1682007729871207:11480": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871207_11480.pvr"
+        }
+    },
+    "1682007729871209:11481": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871209_11481.png"
+        }
+    },
+    "1682007729871305:11549": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871305_11549.png"
+        }
+    },
+    "1682007729871307:11550": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871307_11550.png"
+        }
+    },
+    "1682007729871320:11559": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871320_11559.pvr"
+        }
+    },
+    "1682007729871988:12044": {
+        "IResourceController": {
+            "public": {
+                "path": "Conch/ConchAlbedoV1.png",
+                "hash": "a9f57a8b4edd68643e0e4e0fc1abf5bb"
+            }
+        }
+    }
+}

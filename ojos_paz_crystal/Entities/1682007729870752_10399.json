@@ -1,0 +1,17 @@
+{
+    "1682007729870752:10399": {
+        "IResourceController": {
+            "name": "Location Mesh",
+            "type": 3,
+            "subtype": 8,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643741984909509:347933"
+        },
+        "IResourceManager": {
+            "uid": "1643741984909509:347933",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

@@ -1,0 +1,5 @@
+{
+  "goTo": "{{Name}}으로 이동하세요",
+  "pointAt": "{{Name}}을(를) 가리키세요",
+  "landmarkFailed": "{{Name}} Landmarker를 사용할 수 없습니다  위치 정보 데이터를 불러오지 못했습니다"
+}

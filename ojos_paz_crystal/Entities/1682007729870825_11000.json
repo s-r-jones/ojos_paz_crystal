@@ -1,0 +1,39 @@
+{
+    "1682007729870825:11000": {
+        "IResourceController": {
+            "name": "Ch36_Body",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1663699676349005:245776",
+            "fileId": "1682007729871369:11594",
+            "originalId": "1682007729871371:11595",
+            "publicId": "1682007729872001:12066",
+            "expected_hash": "51492f649756fdc6beae585f4506d81b"
+        },
+        "IResourceManager": {
+            "uid": "1663699676349005:245776",
+            "name": "Files/File_1682007729871369_11594",
+            "flags": 1
+        }
+    },
+    "1682007729871369:11594": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871369_11594"
+        }
+    },
+    "1682007729871371:11595": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871371_11595.lsmat"
+        }
+    },
+    "1682007729872001:12066": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/paz_dance_fix_skip_5/Materials/Ch36_Body.lsmat",
+                "hash": "dba2a1469b1bc10bc0bbd8addef3ab23"
+            }
+        }
+    }
+}

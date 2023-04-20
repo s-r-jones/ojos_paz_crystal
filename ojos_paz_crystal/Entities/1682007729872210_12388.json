@@ -1,0 +1,24 @@
+{
+    "1682007729871893:11894": {
+        "IResourceController": {
+            "public": {
+                "path": "Default Resources"
+            }
+        }
+    },
+    "1682007729872210:12388": {
+        "IResourceController": {
+            "name": "Default Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871893:11894",
+            "resources": [
+                "1682007729870751:10394",
+                "1682007729870752:10398",
+                "1682007729870751:10395"
+            ]
+        }
+    }
+}

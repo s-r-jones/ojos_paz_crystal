@@ -1,0 +1,42 @@
+{
+    "1682007729870799:10776": {
+        "IResourceController": {
+            "name": "spawn_on_mesh Drum",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1662149289359910:676294",
+            "fileId": "1682007729871231:11497",
+            "originalId": "1682007729871233:11498",
+            "publicId": "1682007729871997:12048",
+            "expected_hash": "b21004460482699bbb2381fa2e147eec",
+            "resources": [
+                "1682007780599703:103805"
+            ]
+        },
+        "IResourceManager": {
+            "uid": "1662149289359910:676294",
+            "name": "Files/File_1682007729871231_11497",
+            "flags": 1
+        }
+    },
+    "1682007729871231:11497": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871231_11497"
+        }
+    },
+    "1682007729871233:11498": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871233_11498.lsvfx"
+        }
+    },
+    "1682007729871997:12048": {
+        "IResourceController": {
+            "public": {
+                "path": "Spawn Particles On Mesh Resources/VFX/spawn_on_mesh Drum.lsvfx",
+                "hash": "7d0a426a3ab55bd39c5221ec9d6b2a3c"
+            }
+        }
+    }
+}

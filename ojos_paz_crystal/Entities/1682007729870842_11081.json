@@ -1,0 +1,117 @@
+{
+    "1664235575663316:741413": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "12258712744712242611",
+                        "uncompressed_hash": "e11f45cb23f23f4a417f82cb8eeeb7f9"
+                    },
+                    "v": "1682007729871474:11662"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "16464",
+                "compressedSize": "8400",
+                "extension": "mesh",
+                "originalRAM": "21168",
+                "originalSize": "12921",
+                "settings": {
+                    "attributeFormat": [
+                        {
+                            "k": "normal",
+                            "v": "8"
+                        },
+                        {
+                            "k": "position",
+                            "v": "8"
+                        }
+                    ],
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            }
+                        ]
+                    },
+                    "isCompressed": "true",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682007729871457:11651"
+        }
+    },
+    "1682007729870842:11081": {
+        "IResourceController": {
+            "name": "torus",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664235575663316:741413",
+            "fileId": "1682007729871456:11650",
+            "publicId": "1682007729872006:12085",
+            "expected_hash": "a0a160aa4df1261a1757ed5683b4ef10",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "8",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "8",
+                            "semantic": "normal"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1664235575663316:741413",
+            "name": "Files/File_1682007729871456_11650.mesh",
+            "flags": 1
+        }
+    },
+    "1682007729871456:11650": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871456_11650.mesh"
+        }
+    },
+    "1682007729871457:11651": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871457_11651.mesh"
+        }
+    },
+    "1682007729871474:11662": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871474_11662.mesh"
+        }
+    },
+    "1682007729872006:12085": {
+        "IResourceController": {
+            "public": {
+                "path": "Cinematic Glow/Example/torus.mesh",
+                "hash": "a0a160aa4df1261a1757ed5683b4ef10"
+            }
+        }
+    }
+}

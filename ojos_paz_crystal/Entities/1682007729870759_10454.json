@@ -1,0 +1,17 @@
+{
+    "1682007729870759:10454": {
+        "IResourceController": {
+            "name": "mixamorig1_LeftForeArm",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1660262310725491:1073829"
+        },
+        "IResourceManager": {
+            "uid": "1660262310725491:1073829",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

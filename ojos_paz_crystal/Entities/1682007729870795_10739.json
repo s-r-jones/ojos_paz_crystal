@@ -1,0 +1,39 @@
+{
+    "1682007729870795:10739": {
+        "IResourceController": {
+            "name": "ScreenSpaceNormals__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662084675382513:4366121",
+            "fileId": "1682007729871127:11421",
+            "originalId": "1682007729871150:11438",
+            "publicId": "1682007729871956:12016",
+            "expected_hash": "2d76c5ef2788992c6671ca13957ec967"
+        },
+        "IResourceManager": {
+            "uid": "1662084675382513:4366121",
+            "name": "sceneObject_20",
+            "flags": 0
+        }
+    },
+    "1682007729871127:11421": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871127_11421.oprfb"
+        }
+    },
+    "1682007729871150:11438": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871150_11438.oprfb"
+        }
+    },
+    "1682007729871956:12016": {
+        "IResourceController": {
+            "public": {
+                "path": "ScreenSpaceNormals__PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "26eefc7b9ffc15bbd2fc083f5eedcff4"
+            }
+        }
+    }
+}

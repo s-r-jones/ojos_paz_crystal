@@ -1,0 +1,17 @@
+{
+    "1682007729870843:11088": {
+        "IResourceController": {
+            "name": "Render Target + Glow",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664235710938231:785189"
+        },
+        "IResourceManager": {
+            "uid": "1664235710938231:785189",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

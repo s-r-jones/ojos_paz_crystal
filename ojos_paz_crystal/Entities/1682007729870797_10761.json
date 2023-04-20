@@ -1,0 +1,39 @@
+{
+    "1682007729870797:10761": {
+        "IResourceController": {
+            "name": "Material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662148621445098:474708",
+            "fileId": "1682007729871179:11459",
+            "originalId": "1682007729871181:11460",
+            "publicId": "1682007729871973:12031",
+            "expected_hash": "23741fe5edb0aa4bb9e71c17101d95da"
+        },
+        "IResourceManager": {
+            "uid": "1662148621445098:474708",
+            "name": "Files/File_1682007729871179_11459",
+            "flags": 1
+        }
+    },
+    "1682007729871179:11459": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871179_11459"
+        }
+    },
+    "1682007729871181:11460": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871181_11460.lsmat"
+        }
+    },
+    "1682007729871973:12031": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/drum/DrumV1/Materials/Material.lsmat",
+                "hash": "7be832c665ff89b7b6103aefbb7b6956"
+            }
+        }
+    }
+}

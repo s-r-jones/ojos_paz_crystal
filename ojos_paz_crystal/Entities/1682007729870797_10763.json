@@ -1,0 +1,30 @@
+{
+    "1682007729870797:10763": {
+        "IResourceController": {
+            "name": "DrumV1",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1662148621705830:474775",
+            "fileId": "1682007729871186:11464",
+            "originalId": "1682007729871227:11494",
+            "expected_hash": "b19bd8d4d06dc671e3a6690abfe1b565"
+        },
+        "IResourceManager": {
+            "uid": "1662148621705830:474775",
+            "name": "DrumV1",
+            "flags": 0
+        }
+    },
+    "1682007729871186:11464": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871186_11464.oprfb"
+        }
+    },
+    "1682007729871227:11494": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871227_11494.oprfb"
+        }
+    }
+}

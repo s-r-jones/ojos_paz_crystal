@@ -1,0 +1,14 @@
+{
+    "1682007729872562:12473": {
+        "IResourceController": {
+            "name": "PointCloudVFX",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": true,
+            "resources": [
+                "1682007729872562:12472"
+            ]
+        }
+    }
+}

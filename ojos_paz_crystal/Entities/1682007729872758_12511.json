@@ -1,0 +1,23 @@
+{
+    "1682007729872025:12138": {
+        "IResourceController": {
+            "public": {
+                "path": "Audio Analyzer Resources/Beats"
+            }
+        }
+    },
+    "1682007729872758:12511": {
+        "IResourceController": {
+            "name": "Beats",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729872025:12138",
+            "resources": [
+                "1682007729872752:12509",
+                "1682007729872758:12510"
+            ]
+        }
+    }
+}

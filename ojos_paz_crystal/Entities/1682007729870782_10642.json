@@ -1,0 +1,39 @@
+{
+    "1682007729870782:10642": {
+        "IResourceController": {
+            "name": "SpawnOnMesh__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1660599278404761:116693",
+            "fileId": "1682007729871043:11359",
+            "originalId": "1682007729871071:11379",
+            "publicId": "1682007729871927:11986",
+            "expected_hash": "01e906c3cedcc7b5b044b36d88fd94f6"
+        },
+        "IResourceManager": {
+            "uid": "1660599278404761:116693",
+            "name": "sceneObject_1",
+            "flags": 0
+        }
+    },
+    "1682007729871043:11359": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871043_11359.oprfb"
+        }
+    },
+    "1682007729871071:11379": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871071_11379.oprfb"
+        }
+    },
+    "1682007729871927:11986": {
+        "IResourceController": {
+            "public": {
+                "path": "SpawnOnMesh__PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "01e906c3cedcc7b5b044b36d88fd94f6"
+            }
+        }
+    }
+}

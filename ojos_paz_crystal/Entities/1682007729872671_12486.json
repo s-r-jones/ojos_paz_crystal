@@ -1,0 +1,41 @@
+{
+    "1682007729871379:11600": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871379_11600.fbx"
+        }
+    },
+    "1682007729872001:12064": {
+        "IResourceController": {
+            "public": {
+                "path": "paz_dance_fix_skip_5.fbx",
+                "hash": "4bb1006b9310c7a77ba65b3c289e0f94"
+            }
+        }
+    },
+    "1682007729872671:12486": {
+        "IResourceController": {
+            "name": "paz_dance_fix_skip_5",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1682007729871379:11600",
+            "publicId": "1682007729872001:12064",
+            "expected_hash": "4bb1006b9310c7a77ba65b3c289e0f94",
+            "resources": [
+                "1682007729872645:12483",
+                "1682007729872670:12484",
+                "1682007729872671:12485",
+                "1682007729870826:11002"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Ch36_Body",
+                        "v": "1663699676349005:245776"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1682007729870858:11212": {
+        "IResourceController": {
+            "name": "spawn_on_mesh Paz",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1665071101356094:123808",
+            "fileId": "1682007729871672:11803",
+            "originalId": "1682007729871682:11811",
+            "publicId": "1682007729872030:12154",
+            "expected_hash": "38cbb99e664091a790774e9ef2a6dbf4",
+            "resources": [
+                "1682007771903558:103295"
+            ]
+        },
+        "IResourceManager": {
+            "uid": "1665071101356094:123808",
+            "name": "Files/File_1682007729871672_11803",
+            "flags": 1
+        }
+    },
+    "1682007729871672:11803": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871672_11803"
+        }
+    },
+    "1682007729871682:11811": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871682_11811.lsvfx"
+        }
+    },
+    "1682007729872030:12154": {
+        "IResourceController": {
+            "public": {
+                "path": "Spawn Particles On Mesh Resources/VFX/spawn_on_mesh Paz.lsvfx",
+                "hash": "f8d9e417b55a2770b4ba46ccfd7a8942"
+            }
+        }
+    }
+}

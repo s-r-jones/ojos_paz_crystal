@@ -1,0 +1,30 @@
+{
+    "1682007729870774:10573": {
+        "IResourceController": {
+            "name": "crystal_4directions_04",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1660342443587691:118913",
+            "fileId": "1682007729871022:11343",
+            "originalId": "1682007729871028:11347",
+            "expected_hash": "cb3faca624714b493bae374dae259762"
+        },
+        "IResourceManager": {
+            "uid": "1660342443587691:118913",
+            "name": "crystal_4directions_04",
+            "flags": 0
+        }
+    },
+    "1682007729871022:11343": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871022_11343.oprfb"
+        }
+    },
+    "1682007729871028:11347": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871028_11347.oprfb"
+        }
+    }
+}

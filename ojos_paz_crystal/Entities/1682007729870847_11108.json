@@ -1,0 +1,125 @@
+{
+    "1664319681431655:2557499": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "56080",
+                "compressedSize": "28387",
+                "extension": "mesh",
+                "originalRAM": "56080",
+                "originalSize": "28387",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "boneData"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682007729871535:11706"
+        }
+    },
+    "1682007729870847:11108": {
+        "IResourceController": {
+            "name": "Horns",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664319681431655:2557499",
+            "fileId": "1682007729871534:11705",
+            "publicId": "1682007729872018:12113",
+            "expected_hash": "e532ee1a07b7aac0d7d697bb0b2d0a0e",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "boneData"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1664319681431655:2557499",
+            "name": "Files/File_1682007729871534_11705.mesh",
+            "flags": 1
+        }
+    },
+    "1682007729871534:11705": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871534_11705.mesh"
+        }
+    },
+    "1682007729871535:11706": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871535_11706.mesh"
+        }
+    },
+    "1682007729872018:12113": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Deer/Meshes/Horns.mesh",
+                "hash": "e532ee1a07b7aac0d7d697bb0b2d0a0e"
+            }
+        }
+    }
+}

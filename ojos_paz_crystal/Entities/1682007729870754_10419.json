@@ -1,0 +1,43 @@
+{
+    "1682007729870754:10419": {
+        "IResourceController": {
+            "name": "MaterialParams",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1644349399686647:47594",
+            "fileId": "1682007729870921:11271",
+            "originalId": "1682007729870922:11272",
+            "publicId": "1682007729871902:11921",
+            "expected_hash": "af2715bddfbca2d4e72f470d285c5010",
+            "additional": {
+                "originHash": "af2715bddfbca2d4e72f470d285c5010",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1644349399686647:47594",
+            "name": "Files/File369.jpg",
+            "flags": 1
+        }
+    },
+    "1682007729870921:11271": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870921_11271.png"
+        }
+    },
+    "1682007729870922:11272": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870922_11272.png"
+        }
+    },
+    "1682007729871902:11921": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Balloon [DELETE_ME]/Textures/MaterialParams.png",
+                "hash": "af2715bddfbca2d4e72f470d285c5010"
+            }
+        }
+    }
+}

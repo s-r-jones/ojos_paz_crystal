@@ -1,0 +1,138 @@
+{
+    "1660262310638324:1073786": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3645498929055699283",
+                        "uncompressed_hash": "fc9ed26cc9e69327624d94f7b3d12a16"
+                    },
+                    "v": "1682007729871409:11620"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1262816",
+                "compressedSize": "292261",
+                "extension": "mesh",
+                "originalRAM": "1262816",
+                "originalSize": "292261",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "boneData"
+                            }
+                        ]
+                    },
+                    "isCompressed": "true",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682007729871401:11615"
+        }
+    },
+    "1682007729870758:10445": {
+        "IResourceController": {
+            "name": "Ch36",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1660262310638324:1073786",
+            "fileId": "1682007729871004:11329",
+            "publicId": "1682007729871914:11955",
+            "expected_hash": "fc9ed26cc9e69327624d94f7b3d12a16",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "boneData"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1660262310638324:1073786",
+            "name": "Files/File_1682007729871004_11329.mesh",
+            "flags": 1
+        }
+    },
+    "1682007729871004:11329": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871004_11329.mesh"
+        }
+    },
+    "1682007729871401:11615": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871401_11615.mesh"
+        }
+    },
+    "1682007729871409:11620": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871409_11620.mesh"
+        }
+    },
+    "1682007729871914:11955": {
+        "IResourceController": {
+            "public": {
+                "path": "paz_dance_experiment_07/Meshes/Ch36.mesh",
+                "hash": "fc9ed26cc9e69327624d94f7b3d12a16"
+            }
+        }
+    }
+}

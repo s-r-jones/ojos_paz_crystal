@@ -1,0 +1,24 @@
+{
+    "1682007729871974:12032": {
+        "IResourceController": {
+            "public": {
+                "path": "Headdress"
+            }
+        }
+    },
+    "1682007729872548:12466": {
+        "IResourceController": {
+            "name": "Headdress",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871974:12032",
+            "resources": [
+                "1682007729870798:10764",
+                "1682007729872547:12465",
+                "1682007729870798:10765"
+            ]
+        }
+    }
+}

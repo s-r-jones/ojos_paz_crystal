@@ -1,0 +1,39 @@
+{
+    "1682007729870794:10725": {
+        "IResourceController": {
+            "name": "Analog TV",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662069927217976:2626426",
+            "fileId": "1682007729871081:11387",
+            "originalId": "1682007729871083:11388",
+            "publicId": "1682007729871935:11992",
+            "expected_hash": "5f5d4ddbcebfde856adfe573275f6328"
+        },
+        "IResourceManager": {
+            "uid": "1662069927217976:2626426",
+            "name": "Files/File_1682007729871081_11387",
+            "flags": 1
+        }
+    },
+    "1682007729871081:11387": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871081_11387"
+        }
+    },
+    "1682007729871083:11388": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871083_11388.lsmat"
+        }
+    },
+    "1682007729871935:11992": {
+        "IResourceController": {
+            "public": {
+                "path": "Analog TV.lsmat",
+                "hash": "8a51853156eb161f6d3698d3c300e49f"
+            }
+        }
+    }
+}

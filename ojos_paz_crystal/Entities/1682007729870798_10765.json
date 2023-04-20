@@ -1,0 +1,91 @@
+{
+    "1662148725832027:504967": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2048",
+                        "uncompressed_hash": "16de5b1f4e294724f0bfbb8c6a710307"
+                    },
+                    "v": "1682007729871304:11548"
+                },
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "16de5b1f4e294724f0bfbb8c6a710307"
+                    },
+                    "v": "1682007729871319:11558"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "374926",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "1267729",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682007729871302:11547"
+        }
+    },
+    "1682007729870798:10765": {
+        "IResourceController": {
+            "name": "HeadDressAlbedoV1",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662148725832027:504967",
+            "fileId": "1682007729871193:11469",
+            "originalId": "1682007729871194:11470",
+            "publicId": "1682007729871980:12037",
+            "expected_hash": "8a7fc984e36fc5b96ac146e33c7da2eb",
+            "additional": {
+                "originHash": "16de5b1f4e294724f0bfbb8c6a710307"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1662148725832027:504967",
+            "name": "Files/File690.png",
+            "flags": 1
+        }
+    },
+    "1682007729871193:11469": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871193_11469.pvr"
+        }
+    },
+    "1682007729871194:11470": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871194_11470.png"
+        }
+    },
+    "1682007729871302:11547": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871302_11547.png"
+        }
+    },
+    "1682007729871304:11548": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871304_11548.png"
+        }
+    },
+    "1682007729871319:11558": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871319_11558.pvr"
+        }
+    },
+    "1682007729871980:12037": {
+        "IResourceController": {
+            "public": {
+                "path": "Headdress/HeadDressAlbedoV1.png",
+                "hash": "16de5b1f4e294724f0bfbb8c6a710307"
+            }
+        }
+    }
+}

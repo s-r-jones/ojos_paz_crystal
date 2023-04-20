@@ -1,0 +1,79 @@
+{
+    "1665072572388795:620341": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "bb5ab8f26ea7176d7d1c8011e484cc99"
+                    },
+                    "v": "1682007729871711:11831"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "535307",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "2012890",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682007729871709:11830"
+        }
+    },
+    "1682007729870859:11221": {
+        "IResourceController": {
+            "name": "drum_4",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1665072572388795:620341",
+            "fileId": "1682007729871706:11828",
+            "originalId": "1682007729871707:11829",
+            "publicId": "1682007729872032:12159",
+            "expected_hash": "46f733359710a26b9c8a499db9a8c178",
+            "additional": {
+                "originHash": "bb5ab8f26ea7176d7d1c8011e484cc99"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1665072572388795:620341",
+            "name": "Files/File1143.png",
+            "flags": 1
+        }
+    },
+    "1682007729871706:11828": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871706_11828.pvr"
+        }
+    },
+    "1682007729871707:11829": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871707_11829.png"
+        }
+    },
+    "1682007729871709:11830": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871709_11830.png"
+        }
+    },
+    "1682007729871711:11831": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871711_11831.pvr"
+        }
+    },
+    "1682007729872032:12159": {
+        "IResourceController": {
+            "public": {
+                "path": "Particle Textures/drum_4.png",
+                "hash": "bb5ab8f26ea7176d7d1c8011e484cc99"
+            }
+        }
+    }
+}

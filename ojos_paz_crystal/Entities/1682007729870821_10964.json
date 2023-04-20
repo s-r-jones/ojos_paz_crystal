@@ -1,0 +1,17 @@
+{
+    "1682007729870821:10964": {
+        "IResourceController": {
+            "name": "mixamorig1_LeftHandPinky1",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1663699676331234:245292"
+        },
+        "IResourceManager": {
+            "uid": "1663699676331234:245292",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

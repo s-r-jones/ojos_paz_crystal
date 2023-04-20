@@ -1,0 +1,39 @@
+{
+    "1682007729870795:10738": {
+        "IResourceController": {
+            "name": "MeshDissolve__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662084158459330:4260788",
+            "fileId": "1682007729871125:11420",
+            "originalId": "1682007729871149:11437",
+            "publicId": "1682007729871942:12002",
+            "expected_hash": "6aab2c68ec80c15220611d13690fb76b"
+        },
+        "IResourceManager": {
+            "uid": "1662084158459330:4260788",
+            "name": "sceneObject_19",
+            "flags": 0
+        }
+    },
+    "1682007729871125:11420": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871125_11420.oprfb"
+        }
+    },
+    "1682007729871149:11437": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871149_11437.oprfb"
+        }
+    },
+    "1682007729871942:12002": {
+        "IResourceController": {
+            "public": {
+                "path": "MeshDissolve__PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "6aab2c68ec80c15220611d13690fb76b"
+            }
+        }
+    }
+}

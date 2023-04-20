@@ -1,0 +1,17 @@
+{
+    "1682007729870758:10446": {
+        "IResourceController": {
+            "name": "mixamorig1_Hips",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1660262310719167:1073797"
+        },
+        "IResourceManager": {
+            "uid": "1660262310719167:1073797",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

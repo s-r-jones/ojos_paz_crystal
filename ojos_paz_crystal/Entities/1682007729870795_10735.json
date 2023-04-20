@@ -1,0 +1,39 @@
+{
+    "1682007729870795:10735": {
+        "IResourceController": {
+            "name": "Uber PBR",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662072602733801:3199072",
+            "fileId": "1682007729871114:11412",
+            "originalId": "1682007729871115:11413",
+            "publicId": "1682007729871938:11999",
+            "expected_hash": "79ec559a3aa09db1fd9804aeb147fcc1"
+        },
+        "IResourceManager": {
+            "uid": "1662072602733801:3199072",
+            "name": "Files/File_1682007729871114_11412",
+            "flags": 1
+        }
+    },
+    "1682007729871114:11412": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871114_11412"
+        }
+    },
+    "1682007729871115:11413": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871115_11413.lsmat"
+        }
+    },
+    "1682007729871938:11999": {
+        "IResourceController": {
+            "public": {
+                "path": "Uber PBR.lsmat",
+                "hash": "9edd5c167ca33640faf4fab151ba369b"
+            }
+        }
+    }
+}

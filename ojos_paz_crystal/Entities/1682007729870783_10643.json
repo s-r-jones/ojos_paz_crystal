@@ -1,0 +1,33 @@
+{
+    "1682007729870783:10643": {
+        "IResourceController": {
+            "name": "EncodeMeshPositions",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1660599278541311:118187",
+            "fileId": "1682007729871045:11360",
+            "publicId": "1682007729871919:11970",
+            "expected_hash": "7f7929fe4dd0fa16ec0f3a916f93cdda"
+        },
+        "IResourceManager": {
+            "uid": "1660599278541311:118187",
+            "name": "Files/File_1682007729871045_11360.js",
+            "flags": 1
+        }
+    },
+    "1682007729871045:11360": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871045_11360.js"
+        }
+    },
+    "1682007729871919:11970": {
+        "IResourceController": {
+            "public": {
+                "path": "Spawn Particles On Mesh Resources/Scripts/EncodeMeshPositions.js",
+                "hash": "7f7929fe4dd0fa16ec0f3a916f93cdda"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1682007729870861:11235": {
+        "IResourceController": {
+            "name": "ExtendedMarkerTracking",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1667045185296592:72647",
+            "fileId": "1682007729871785:11884",
+            "publicId": "1682007729872036:12174",
+            "expected_hash": "7d6c3aa5c6dc5b24ec9123d0402c7011"
+        },
+        "IResourceManager": {
+            "uid": "1667045185296592:72647",
+            "name": "Files/File_1682007729871785_11884.js",
+            "flags": 1
+        }
+    },
+    "1682007729871785:11884": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871785_11884.js"
+        }
+    },
+    "1682007729872036:12174": {
+        "IResourceController": {
+            "public": {
+                "path": "ExtendedMarkerTracking/ExtendedMarkerTracking.js",
+                "hash": "7d6c3aa5c6dc5b24ec9123d0402c7011"
+            }
+        }
+    }
+}

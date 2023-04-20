@@ -1,0 +1,91 @@
+{
+    "1662148725571303:500141": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1024",
+                        "uncompressed_hash": "e300dfedceb2a6272d70787c20867fbf"
+                    },
+                    "v": "1682007729871300:11546"
+                },
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "e300dfedceb2a6272d70787c20867fbf"
+                    },
+                    "v": "1682007729871317:11557"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "57643",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "252547",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682007729871299:11545"
+        }
+    },
+    "1682007729870798:10764": {
+        "IResourceController": {
+            "name": "HeaddressNormalsV1",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662148725571303:500141",
+            "fileId": "1682007729871189:11466",
+            "originalId": "1682007729871190:11467",
+            "publicId": "1682007729871974:12033",
+            "expected_hash": "7b98a1c5b3e35e7c4318e65c1e900571",
+            "additional": {
+                "originHash": "e300dfedceb2a6272d70787c20867fbf"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1662148725571303:500141",
+            "name": "Files/File686.png",
+            "flags": 1
+        }
+    },
+    "1682007729871189:11466": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871189_11466.pvr"
+        }
+    },
+    "1682007729871190:11467": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871190_11467.png"
+        }
+    },
+    "1682007729871299:11545": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871299_11545.png"
+        }
+    },
+    "1682007729871300:11546": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871300_11546.png"
+        }
+    },
+    "1682007729871317:11557": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871317_11557.pvr"
+        }
+    },
+    "1682007729871974:12033": {
+        "IResourceController": {
+            "public": {
+                "path": "Headdress/HeaddressNormalsV1.png",
+                "hash": "e300dfedceb2a6272d70787c20867fbf"
+            }
+        }
+    }
+}

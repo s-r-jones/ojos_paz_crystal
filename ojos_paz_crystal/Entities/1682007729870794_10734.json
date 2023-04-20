@@ -1,0 +1,42 @@
+{
+    "1682007729870794:10734": {
+        "IResourceController": {
+            "name": "Base",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662072563541322:3191204",
+            "fileId": "1682007729871112:11410",
+            "originalId": "1682007729871113:11411",
+            "publicId": "1682007729871938:11997",
+            "expected_hash": "cb607d7b25a160872c49fb4d2635cc33",
+            "additional": {
+                "originHash": "cb607d7b25a160872c49fb4d2635cc33"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1662072563541322:3191204",
+            "name": "Files/File595.jpg",
+            "flags": 1
+        }
+    },
+    "1682007729871112:11410": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871112_11410.png"
+        }
+    },
+    "1682007729871113:11411": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871113_11411.png"
+        }
+    },
+    "1682007729871938:11997": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Base.png",
+                "hash": "cb607d7b25a160872c49fb4d2635cc33"
+            }
+        }
+    }
+}

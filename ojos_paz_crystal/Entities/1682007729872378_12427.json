@@ -1,0 +1,41 @@
+{
+    "1682007729871024:11344": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871024_11344.fbx"
+        }
+    },
+    "1682007729871915:11961": {
+        "IResourceController": {
+            "public": {
+                "path": "crystal_4directions_04.fbx",
+                "hash": "473e913d223c48ceef8e03b6c811c265"
+            }
+        }
+    },
+    "1682007729872378:12427": {
+        "IResourceController": {
+            "name": "crystal_4directions_04",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1682007729871024:11344",
+            "publicId": "1682007729871915:11961",
+            "expected_hash": "473e913d223c48ceef8e03b6c811c265",
+            "resources": [
+                "1682007729872359:12424",
+                "1682007729872377:12425",
+                "1682007729872378:12426",
+                "1682007729870774:10573"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Ch36_Body",
+                        "v": "1660342443130230:118568"
+                    }
+                ]
+            }
+        }
+    }
+}

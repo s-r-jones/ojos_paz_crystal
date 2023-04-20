@@ -1,0 +1,79 @@
+{
+    "1662069927472899:2626501": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "b4361cdf13dbd1e9f019c5b1f8199509"
+                    },
+                    "v": "1682007729871093:11396"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "16384",
+                "compressedSize": "9578",
+                "extension": "png",
+                "originalRAM": "131072",
+                "originalSize": "15806",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682007729871091:11394"
+        }
+    },
+    "1682007729870794:10727": {
+        "IResourceController": {
+            "name": "PE_Screen_Vector",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662069927472899:2626501",
+            "fileId": "1682007729871088:11392",
+            "originalId": "1682007729871089:11393",
+            "publicId": "1682007729871933:11991",
+            "expected_hash": "05c497b26b61a3ac2ecf6308085be46e",
+            "additional": {
+                "originHash": "b4361cdf13dbd1e9f019c5b1f8199509"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1662069927472899:2626501",
+            "name": "Files/File577.jpg",
+            "flags": 1
+        }
+    },
+    "1682007729871088:11392": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871088_11392.pvr"
+        }
+    },
+    "1682007729871089:11393": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871089_11393.png"
+        }
+    },
+    "1682007729871091:11394": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871091_11394.png"
+        }
+    },
+    "1682007729871093:11396": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871093_11396.pvr"
+        }
+    },
+    "1682007729871933:11991": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/PE_Screen_Vector.png",
+                "hash": "b4361cdf13dbd1e9f019c5b1f8199509"
+            }
+        }
+    }
+}

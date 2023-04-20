@@ -1,0 +1,129 @@
+{
+    "1662148621442196:474700": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2717716640711016236",
+                        "uncompressed_hash": "13e9959d20de7a36b436b30c7745429b"
+                    },
+                    "v": "1682007729871412:11622"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "417980",
+                "compressedSize": "50434",
+                "extension": "mesh",
+                "originalRAM": "417980",
+                "originalSize": "50417",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "9",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "3",
+                                "semantic": "color"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "true",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682007729871404:11617"
+        }
+    },
+    "1682007729870797:10760": {
+        "IResourceController": {
+            "name": "DrumRetopo",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1662148621442196:474700",
+            "fileId": "1682007729871178:11458",
+            "expected_hash": "746d2a446514a03b530006ccf172401f",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "3",
+                            "semantic": "color"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1662148621442196:474700",
+            "name": "Files/File_1682007729871178_11458.mesh",
+            "flags": 1
+        }
+    },
+    "1682007729871178:11458": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871178_11458.mesh"
+        }
+    },
+    "1682007729871404:11617": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871404_11617.mesh"
+        }
+    },
+    "1682007729871412:11622": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871412_11622.mesh"
+        }
+    }
+}

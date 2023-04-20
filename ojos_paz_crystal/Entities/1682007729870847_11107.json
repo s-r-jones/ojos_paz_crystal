@@ -1,0 +1,125 @@
+{
+    "1664319681348564:2557485": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "429564",
+                "compressedSize": "303075",
+                "extension": "mesh",
+                "originalRAM": "429564",
+                "originalSize": "303075",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "boneData"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682007729871532:11704"
+        }
+    },
+    "1682007729870847:11107": {
+        "IResourceController": {
+            "name": "Deer",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664319681348564:2557485",
+            "fileId": "1682007729871531:11703",
+            "publicId": "1682007729872018:12112",
+            "expected_hash": "48bfd91b16241c051328f321ad233881",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "boneData"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1664319681348564:2557485",
+            "name": "Files/File_1682007729871531_11703.mesh",
+            "flags": 1
+        }
+    },
+    "1682007729871531:11703": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871531_11703.mesh"
+        }
+    },
+    "1682007729871532:11704": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871532_11704.mesh"
+        }
+    },
+    "1682007729872018:12112": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Deer/Meshes/Deer.mesh",
+                "hash": "48bfd91b16241c051328f321ad233881"
+            }
+        }
+    }
+}

@@ -1,0 +1,5 @@
+{
+  "goTo": "Siirry maamerkille {{Name}}",
+  "pointAt": "Osoita maamerkkiä {{Name}}",
+  "landmarkFailed": "Maamerkki {{Name}} ei ole saatavilla,  Sijaintitietojen lataaminen epäonnistui"
+}

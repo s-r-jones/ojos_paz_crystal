@@ -1,0 +1,91 @@
+{
+    "1660943644037448:2103018": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2048",
+                        "uncompressed_hash": "bcc0855adc1addc5ec04197788748633"
+                    },
+                    "v": "1682007729871606:11758"
+                },
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "bcc0855adc1addc5ec04197788748633"
+                    },
+                    "v": "1682007729871079:11385"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "160000",
+                "compressedSize": "6866",
+                "extension": "png",
+                "originalRAM": "160000",
+                "originalSize": "47661",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682007729871077:11384"
+        }
+    },
+    "1682007729870793:10722": {
+        "IResourceController": {
+            "name": "angryimg",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1660943644037448:2103018",
+            "fileId": "1682007729871075:11382",
+            "originalId": "1682007729871076:11383",
+            "publicId": "1682007729871929:11988",
+            "expected_hash": "3dd44d84e82b79f089d27c30b0dc0729",
+            "additional": {
+                "originHash": "bcc0855adc1addc5ec04197788748633"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1660943644037448:2103018",
+            "name": "Files/File_1682007729871075_11382.png",
+            "flags": 1
+        }
+    },
+    "1682007729871075:11382": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871075_11382.png"
+        }
+    },
+    "1682007729871076:11383": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871076_11383.png"
+        }
+    },
+    "1682007729871077:11384": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871077_11384.png"
+        }
+    },
+    "1682007729871079:11385": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871079_11385.pvr"
+        }
+    },
+    "1682007729871606:11758": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871606_11758.png"
+        }
+    },
+    "1682007729871929:11988": {
+        "IResourceController": {
+            "public": {
+                "path": "paz_dance_experiment_07/angryimg.png",
+                "hash": "bcc0855adc1addc5ec04197788748633"
+            }
+        }
+    }
+}

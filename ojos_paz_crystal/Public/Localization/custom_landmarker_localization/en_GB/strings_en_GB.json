@@ -1,0 +1,5 @@
+{
+  "goTo": "Go to {{Name}}",
+  "pointAt": "Point at {{Name}}",
+  "landmarkFailed": "{{Name}} Landmarker is unavailable,  Failed to load location data"
+}

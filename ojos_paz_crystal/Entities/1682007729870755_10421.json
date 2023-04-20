@@ -1,0 +1,42 @@
+{
+    "1682007729870755:10421": {
+        "IResourceController": {
+            "name": "baloon",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1644349400511925:47669",
+            "fileId": "1682007729870926:11275",
+            "originalId": "1682007729870927:11276",
+            "publicId": "1682007729871902:11924",
+            "expected_hash": "d3fcb5c4003e3aded4fc17ecd141ec30",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1644349400511925:47669",
+            "name": "Files/File_1682007729870926_11275",
+            "flags": 1
+        }
+    },
+    "1682007729870926:11275": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870926_11275"
+        }
+    },
+    "1682007729870927:11276": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870927_11276.lsmat"
+        }
+    },
+    "1682007729871902:11924": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Balloon [DELETE_ME]/Materials/baloon.lsmat",
+                "hash": "91cf02cb11440acf73f3360731d7757e"
+            }
+        }
+    }
+}

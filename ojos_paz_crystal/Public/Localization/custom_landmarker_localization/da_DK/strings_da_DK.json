@@ -1,0 +1,5 @@
+{
+  "goTo": "Gå til {{Name}}",
+  "pointAt": "Peg mod {{Name}}",
+  "landmarkFailed": "{{Name}}-landmærker er utilgængelig,  Lokationsdata kunne ikke indlæses"
+}

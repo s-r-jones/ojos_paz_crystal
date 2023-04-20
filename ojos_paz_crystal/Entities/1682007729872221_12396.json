@@ -1,0 +1,24 @@
+{
+    "1682007729871898:11907": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/HelperScripts"
+            }
+        }
+    },
+    "1682007729872221:12396": {
+        "IResourceController": {
+            "name": "HelperScripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871898:11907",
+            "resources": [
+                "1682007729872221:12395",
+                "1682007729870753:10410",
+                "1682007729870756:10426"
+            ]
+        }
+    }
+}

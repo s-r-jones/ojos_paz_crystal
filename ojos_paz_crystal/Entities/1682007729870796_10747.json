@@ -1,0 +1,39 @@
+{
+    "1682007729870796:10747": {
+        "IResourceController": {
+            "name": "Depth Visualize",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662084676411078:4366623",
+            "fileId": "1682007729871145:11434",
+            "originalId": "1682007729871146:11435",
+            "publicId": "1682007729871956:12015",
+            "expected_hash": "1b5f3bc4db8c32e700ecb8c2a1124c58"
+        },
+        "IResourceManager": {
+            "uid": "1662084676411078:4366623",
+            "name": "Files/File_1682007729871145_11434",
+            "flags": 1
+        }
+    },
+    "1682007729871145:11434": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871145_11434"
+        }
+    },
+    "1682007729871146:11435": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871146_11435.lsmat"
+        }
+    },
+    "1682007729871956:12015": {
+        "IResourceController": {
+            "public": {
+                "path": "Screen Space Normals Resources/Materials/Depth Visualize.lsmat",
+                "hash": "2546e2ade088eb4d7cfa8b2f1539b3d4"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1682007729870837:11072": {
+        "IResourceController": {
+            "name": "feedback_mat 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1663887319539836:98142",
+            "fileId": "1682007729871435:11636",
+            "originalId": "1682007729871437:11637",
+            "publicId": "1682007729872003:12074",
+            "expected_hash": "a39ab37d5d065b184a8e161d889e7477"
+        },
+        "IResourceManager": {
+            "uid": "1663887319539836:98142",
+            "name": "Files/File_1682007729871435_11636",
+            "flags": 1
+        }
+    },
+    "1682007729871435:11636": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871435_11636"
+        }
+    },
+    "1682007729871437:11637": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871437_11637.lsmat"
+        }
+    },
+    "1682007729872003:12074": {
+        "IResourceController": {
+            "public": {
+                "path": "Spawn Particles On Mesh Resources/Materials/feedback_mat 2.lsmat",
+                "hash": "1921f373faf8551646f6b1ea0b7c6c52"
+            }
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "1682007729870757:10434": {
+        "IResourceController": {
+            "name": "custom_landmarker_localization",
+            "type": 31,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645572407809628:563230",
+            "fileId": "1682007729870970:11306",
+            "publicId": "1682007729871908:11937",
+            "expected_hash": "7a22b9cfae43b4c8232a2c24d3342fd9"
+        },
+        "IResourceManager": {
+            "uid": "1645572407809628:563230",
+            "name": "Files/File_1682007729870970_11306",
+            "flags": 1
+        }
+    },
+    "1682007729870970:11306": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870970_11306"
+        }
+    },
+    "1682007729871908:11937": {
+        "IResourceController": {
+            "public": {
+                "path": "Localization/custom_landmarker_localization",
+                "hash": "7a22b9cfae43b4c8232a2c24d3342fd9",
+                "complexResourceHash": "dccc733f658e8ba02575c2d818ba3036"
+            }
+        }
+    }
+}

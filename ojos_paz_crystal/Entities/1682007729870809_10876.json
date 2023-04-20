@@ -1,0 +1,17 @@
+{
+    "1682007729870809:10876": {
+        "IResourceController": {
+            "name": "mixamorig1_HeadTop_End",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1663699118954378:212160"
+        },
+        "IResourceManager": {
+            "uid": "1663699118954378:212160",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

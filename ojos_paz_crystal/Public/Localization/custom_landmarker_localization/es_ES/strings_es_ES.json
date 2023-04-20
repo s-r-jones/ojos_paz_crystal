@@ -1,0 +1,5 @@
+{
+  "goTo": "Ir a {{Name}}",
+  "pointAt": "Señalar a {{Name}}",
+  "landmarkFailed": "El Landmarker {{Name}} no está disponible,  Error al cargar los datos de ubicación"
+}

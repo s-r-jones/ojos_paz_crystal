@@ -1,0 +1,30 @@
+{
+    "1682007729870826:11002": {
+        "IResourceController": {
+            "name": "paz_dance_fix_skip_5",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1663699676838578:246105",
+            "fileId": "1682007729871377:11599",
+            "originalId": "1682007729871398:11613",
+            "expected_hash": "8519a9e18f3a7c84f4233d8181f1ea40"
+        },
+        "IResourceManager": {
+            "uid": "1663699676838578:246105",
+            "name": "paz_dance_fix_skip_5",
+            "flags": 0
+        }
+    },
+    "1682007729871377:11599": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871377_11599.oprfb"
+        }
+    },
+    "1682007729871398:11613": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871398_11613.oprfb"
+        }
+    }
+}

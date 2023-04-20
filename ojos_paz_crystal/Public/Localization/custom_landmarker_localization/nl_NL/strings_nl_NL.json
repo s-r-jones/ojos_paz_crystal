@@ -1,0 +1,5 @@
+{
+  "goTo": "Ga naar {{Name}}",
+  "pointAt": "Wijs naar {{Name}}",
+  "landmarkFailed": "{{Name}} Monument is niet beschikbaar,  Locatiegegevens laden mislukt"
+}

@@ -1,0 +1,22 @@
+{
+    "1682007729872014:12100": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Ramp Textures"
+            }
+        }
+    },
+    "1682007729872238:12401": {
+        "IResourceController": {
+            "name": "Ramp Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729872014:12100",
+            "resources": [
+                "1682007729870846:11101"
+            ]
+        }
+    }
+}

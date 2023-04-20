@@ -1,0 +1,24 @@
+{
+    "1682007729872007:12087": {
+        "IResourceController": {
+            "public": {
+                "path": "Cinematic Glow/System"
+            }
+        }
+    },
+    "1682007729872719:12492": {
+        "IResourceController": {
+            "name": "System",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729872007:12087",
+            "resources": [
+                "1682007729870843:11083",
+                "1682007729870843:11084",
+                "1682007729870843:11085"
+            ]
+        }
+    }
+}

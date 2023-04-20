@@ -1,0 +1,17 @@
+{
+    "1682007729870796:10748": {
+        "IResourceController": {
+            "name": "Depth Render Target",
+            "type": 1,
+            "subtype": 28,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662084676467685:4366639"
+        },
+        "IResourceManager": {
+            "uid": "1662084676467685:4366639",
+            "name": "Depth Render Target",
+            "flags": 0
+        }
+    }
+}

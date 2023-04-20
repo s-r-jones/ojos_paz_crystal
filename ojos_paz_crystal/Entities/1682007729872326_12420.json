@@ -1,0 +1,22 @@
+{
+    "1682007729871914:11954": {
+        "IResourceController": {
+            "public": {
+                "path": "paz_dance_experiment_07/Meshes"
+            }
+        }
+    },
+    "1682007729872326:12420": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871914:11954",
+            "resources": [
+                "1682007729870758:10445"
+            ]
+        }
+    }
+}

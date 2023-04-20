@@ -1,0 +1,30 @@
+{
+    "1682007729870782:10641": {
+        "IResourceController": {
+            "name": "paz_dance_experiment_07",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1660342836508847:177076",
+            "fileId": "1682007729871037:11354",
+            "originalId": "1682007729871042:11358",
+            "expected_hash": "9913212296e03dbd61c9d270443e8eb9"
+        },
+        "IResourceManager": {
+            "uid": "1660342836508847:177076",
+            "name": "paz_dance_experiment_07",
+            "flags": 0
+        }
+    },
+    "1682007729871037:11354": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871037_11354.oprfb"
+        }
+    },
+    "1682007729871042:11358": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871042_11358.oprfb"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1682007729870793:10716": {
+        "IResourceController": {
+            "name": "meshdata_mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1660599278749064:119542",
+            "fileId": "1682007729871056:11368",
+            "originalId": "1682007729871057:11369",
+            "publicId": "1682007729871925:11980",
+            "expected_hash": "9bd9470e0fcd7acba1a5373b09a4155b"
+        },
+        "IResourceManager": {
+            "uid": "1660599278749064:119542",
+            "name": "Files/File_1682007729871056_11368",
+            "flags": 1
+        }
+    },
+    "1682007729871056:11368": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871056_11368"
+        }
+    },
+    "1682007729871057:11369": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871057_11369.lsmat"
+        }
+    },
+    "1682007729871925:11980": {
+        "IResourceController": {
+            "public": {
+                "path": "Spawn Particles On Mesh Resources/Materials/meshdata_mat.lsmat",
+                "hash": "62c1459e338d43c6870ee4ab57900a94"
+            }
+        }
+    }
+}

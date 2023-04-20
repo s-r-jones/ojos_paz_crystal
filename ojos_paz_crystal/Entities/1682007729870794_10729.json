@@ -1,0 +1,39 @@
+{
+    "1682007729870794:10729": {
+        "IResourceController": {
+            "name": "Distortion",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662069944568418:2639646",
+            "fileId": "1682007729871095:11397",
+            "originalId": "1682007729871096:11398",
+            "publicId": "1682007729871937:11994",
+            "expected_hash": "60d9bf437f0375ca184fcc6c59b6fb23"
+        },
+        "IResourceManager": {
+            "uid": "1662069944568418:2639646",
+            "name": "Files/File_1682007729871095_11397",
+            "flags": 1
+        }
+    },
+    "1682007729871095:11397": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871095_11397"
+        }
+    },
+    "1682007729871096:11398": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871096_11398.lsmat"
+        }
+    },
+    "1682007729871937:11994": {
+        "IResourceController": {
+            "public": {
+                "path": "Distortion.lsmat",
+                "hash": "7a1d687c541a63422e2bab78bed19b58"
+            }
+        }
+    }
+}

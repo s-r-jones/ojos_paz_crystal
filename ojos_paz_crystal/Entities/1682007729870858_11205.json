@@ -1,0 +1,33 @@
+{
+    "1682007729870858:11205": {
+        "IResourceController": {
+            "name": "Surprises To Dance To 16K - FIle Audio Track",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664919152593518:695406",
+            "fileId": "1682007729871633:11777",
+            "publicId": "1682007729872027:12145",
+            "expected_hash": "0b3785b28b73773c1da7f9cae47287a2"
+        },
+        "IResourceManager": {
+            "uid": "1664919152593518:695406",
+            "name": "Files/File_1682007729871633_11777.mp3",
+            "flags": 1
+        }
+    },
+    "1682007729871633:11777": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871633_11777.mp3"
+        }
+    },
+    "1682007729872027:12145": {
+        "IResourceController": {
+            "public": {
+                "path": "Audio Analyzer Resources/Audio Tracks/Surprises To Dance To 16K - FIle Audio Track.mp3",
+                "hash": "0b3785b28b73773c1da7f9cae47287a2"
+            }
+        }
+    }
+}

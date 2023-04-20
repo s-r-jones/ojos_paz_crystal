@@ -1,0 +1,39 @@
+{
+    "1682007729870757:10437": {
+        "IResourceController": {
+            "name": "location_mesh_material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1646330400822335:14022975",
+            "fileId": "1682007729870981:11313",
+            "originalId": "1682007729870982:11314",
+            "publicId": "1682007729871909:11940",
+            "expected_hash": "a50fe081e30ad65a306e338df3d86fbf"
+        },
+        "IResourceManager": {
+            "uid": "1646330400822335:14022975",
+            "name": "Files/File_1682007729870981_11313",
+            "flags": 1
+        }
+    },
+    "1682007729870981:11313": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870981_11313"
+        }
+    },
+    "1682007729870982:11314": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870982_11314.lsmat"
+        }
+    },
+    "1682007729871909:11940": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/location_mesh_material.lsmat",
+                "hash": "be9f2e3271b63a58f8905d4ed4a48940"
+            }
+        }
+    }
+}

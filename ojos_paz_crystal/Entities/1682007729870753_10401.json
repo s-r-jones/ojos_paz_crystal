@@ -1,0 +1,33 @@
+{
+    "1682007729870753:10401": {
+        "IResourceController": {
+            "name": "LocationAssetInformation",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643742853808366:446913",
+            "fileId": "1682007729870879:11242",
+            "publicId": "1682007729871892:11891",
+            "expected_hash": "4a5e1eb564795f9f6e094f875df8bb54"
+        },
+        "IResourceManager": {
+            "uid": "1643742853808366:446913",
+            "name": "Files/File_1682007729870879_11242.js",
+            "flags": 1
+        }
+    },
+    "1682007729870879:11242": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870879_11242.js"
+        }
+    },
+    "1682007729871892:11891": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Information Scripts/LocationAssetInformation.js",
+                "hash": "4a5e1eb564795f9f6e094f875df8bb54"
+            }
+        }
+    }
+}

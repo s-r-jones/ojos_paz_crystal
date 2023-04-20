@@ -1,0 +1,5 @@
+{
+  "goTo": "Ir para {{Name}}",
+  "pointAt": "Apontar para {{Name}}",
+  "landmarkFailed": "{{Name}} Ponto de referência está indisponível,  Falha ao carregar os dados de localização"
+}

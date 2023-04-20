@@ -1,0 +1,42 @@
+{
+    "1682007729870847:11105": {
+        "IResourceController": {
+            "name": "deer_antlers",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664319680857272:2557419",
+            "fileId": "1682007729871525:11699",
+            "originalId": "1682007729871527:11700",
+            "publicId": "1682007729872017:12108",
+            "expected_hash": "575c8f8ec3a148e3615eaab2e92e201a",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1664319680857272:2557419",
+            "name": "Files/File_1682007729871525_11699",
+            "flags": 1
+        }
+    },
+    "1682007729871525:11699": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871525_11699"
+        }
+    },
+    "1682007729871527:11700": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871527_11700.lsmat"
+        }
+    },
+    "1682007729872017:12108": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/deer_antlers.lsmat",
+                "hash": "8937aeac2143ff31509af973a3172c86"
+            }
+        }
+    }
+}

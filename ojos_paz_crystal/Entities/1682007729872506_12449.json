@@ -1,0 +1,23 @@
+{
+    "1682007729871948:12005": {
+        "IResourceController": {
+            "public": {
+                "path": "Screen Space Normals Resources/Textures/Render Targets"
+            }
+        }
+    },
+    "1682007729872506:12449": {
+        "IResourceController": {
+            "name": "Render Targets",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871948:12005",
+            "resources": [
+                "1682007729870795:10740",
+                "1682007729870796:10748"
+            ]
+        }
+    }
+}

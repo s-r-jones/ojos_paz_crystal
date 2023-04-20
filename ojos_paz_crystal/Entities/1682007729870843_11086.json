@@ -1,0 +1,39 @@
+{
+    "1682007729870843:11086": {
+        "IResourceController": {
+            "name": "Glow Occluder",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664235576186761:741584",
+            "fileId": "1682007729871466:11657",
+            "originalId": "1682007729871468:11658",
+            "publicId": "1682007729872008:12091",
+            "expected_hash": "5d7dbd740067eb2a18aafd6315c77d6a"
+        },
+        "IResourceManager": {
+            "uid": "1664235576186761:741584",
+            "name": "Files/File_1682007729871466_11657",
+            "flags": 1
+        }
+    },
+    "1682007729871466:11657": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871466_11657"
+        }
+    },
+    "1682007729871468:11658": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871468_11658.lsmat"
+        }
+    },
+    "1682007729872008:12091": {
+        "IResourceController": {
+            "public": {
+                "path": "Cinematic Glow/Extra/Glow Occluder.lsmat",
+                "hash": "612505bf37ad2a9dd48fe2810b3c2d16"
+            }
+        }
+    }
+}

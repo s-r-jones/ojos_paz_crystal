@@ -1,0 +1,39 @@
+{
+    "1682007729870796:10750": {
+        "IResourceController": {
+            "name": "Night",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662086936269350:5052408",
+            "fileId": "1682007729871154:11441",
+            "originalId": "1682007729871155:11442",
+            "publicId": "1682007729871962:12019",
+            "expected_hash": "4faff4caaf3ba6b3603678eebcd73f1a"
+        },
+        "IResourceManager": {
+            "uid": "1662086936269350:5052408",
+            "name": "Files/File_1682007729871154_11441",
+            "flags": 1
+        }
+    },
+    "1682007729871154:11441": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871154_11441"
+        }
+    },
+    "1682007729871155:11442": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871155_11442.lsmat"
+        }
+    },
+    "1682007729871962:12019": {
+        "IResourceController": {
+            "public": {
+                "path": "Night.lsmat",
+                "hash": "99a26c6ee5ce90d05e8d416e851a8298"
+            }
+        }
+    }
+}

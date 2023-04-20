@@ -1,0 +1,17 @@
+{
+    "1682007729870786:10664": {
+        "IResourceController": {
+            "name": "neck_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1660599278685119:118554"
+        },
+        "IResourceManager": {
+            "uid": "1660599278685119:118554",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

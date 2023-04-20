@@ -1,0 +1,24 @@
+{
+    "1682007729871967:12025": {
+        "IResourceController": {
+            "public": {
+                "path": "drum"
+            }
+        }
+    },
+    "1682007729872537:12461": {
+        "IResourceController": {
+            "name": "drum",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871967:12025",
+            "resources": [
+                "1682007729870797:10758",
+                "1682007729870797:10759",
+                "1682007729872536:12460"
+            ]
+        }
+    }
+}

@@ -1,0 +1,5 @@
+{
+  "goTo": "{{Name}}-এ যান",
+  "pointAt": "{{Name}}-এর দিকে পয়েন্ট করুন",
+  "landmarkFailed": "{{Name}} Landmarker উপলভ্য নেই,  অবস্থানের ডেটা লোড করা যায়নি"
+}

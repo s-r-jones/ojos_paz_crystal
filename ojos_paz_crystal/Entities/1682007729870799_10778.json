@@ -1,0 +1,42 @@
+{
+    "1682007729870799:10778": {
+        "IResourceController": {
+            "name": "spawn_on_mesh Drum Conch",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1662149664935280:873327",
+            "fileId": "1682007729871237:11501",
+            "originalId": "1682007729871238:11502",
+            "publicId": "1682007729871997:12050",
+            "expected_hash": "9815ab738a519d05ac3789929414f6c6",
+            "resources": [
+                "1682007773335134:103382"
+            ]
+        },
+        "IResourceManager": {
+            "uid": "1662149664935280:873327",
+            "name": "Files/File_1682007729871237_11501",
+            "flags": 1
+        }
+    },
+    "1682007729871237:11501": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871237_11501"
+        }
+    },
+    "1682007729871238:11502": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871238_11502.lsvfx"
+        }
+    },
+    "1682007729871997:12050": {
+        "IResourceController": {
+            "public": {
+                "path": "Spawn Particles On Mesh Resources/VFX/spawn_on_mesh Drum Conch.lsvfx",
+                "hash": "bacd110a1d0e7945431a8882d37cc86a"
+            }
+        }
+    }
+}

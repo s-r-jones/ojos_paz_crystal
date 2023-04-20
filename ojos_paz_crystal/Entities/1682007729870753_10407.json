@@ -1,0 +1,40 @@
+{
+    "1682007729870753:10407": {
+        "IResourceController": {
+            "name": "go_to_anim",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1643831937449482:905246",
+            "fileId": "1682007729870890:11248",
+            "originalId": "1682007729870891:11249",
+            "publicId": "1682007729871895:11903",
+            "expected_hash": "9a8f0738a827f0455d1b5a92cd3cc271"
+        },
+        "IResourceManager": {
+            "uid": "1643831937449482:905246",
+            "name": "Files/File_1682007729870890_11248",
+            "flags": 1
+        }
+    },
+    "1682007729870890:11248": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870890_11248"
+        }
+    },
+    "1682007729870891:11249": {
+        "IFileManager": {
+            "path": "Files/File_1682007729870891_11249"
+        }
+    },
+    "1682007729871895:11903": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Hint Textures/go_to_anim",
+                "hash": "9a8f0738a827f0455d1b5a92cd3cc271",
+                "complexResourceHash": "67e64f7de2e531690a011f0f4dbd7437"
+            }
+        }
+    }
+}

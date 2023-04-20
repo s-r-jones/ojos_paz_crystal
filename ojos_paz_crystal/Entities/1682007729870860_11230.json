@@ -1,0 +1,39 @@
+{
+    "1682007729870860:11230": {
+        "IResourceController": {
+            "name": "Color Correction 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1665076654402469:1901016",
+            "fileId": "1682007729871765:11870",
+            "originalId": "1682007729871766:11871",
+            "publicId": "1682007729872035:12168",
+            "expected_hash": "763a506393e5bce138898b37c90e88e9"
+        },
+        "IResourceManager": {
+            "uid": "1665076654402469:1901016",
+            "name": "Files/File_1682007729871765_11870",
+            "flags": 1
+        }
+    },
+    "1682007729871765:11870": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871765_11870"
+        }
+    },
+    "1682007729871766:11871": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871766_11871.lsmat"
+        }
+    },
+    "1682007729872035:12168": {
+        "IResourceController": {
+            "public": {
+                "path": "Color Correction 2.lsmat",
+                "hash": "7f265006ccd3801eec488c7fb930dd34"
+            }
+        }
+    }
+}

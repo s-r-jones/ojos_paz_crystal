@@ -1,0 +1,79 @@
+{
+    "1664316876402434:1995587": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "3ae97b684d98fcbddafb424199d64dbb"
+                    },
+                    "v": "1682007729871495:11677"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "9604",
+                "compressedSize": "87647",
+                "extension": "png",
+                "originalRAM": "9604",
+                "originalSize": "241799",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "21",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682007729871484:11669"
+        }
+    },
+    "1682007729870844:11091": {
+        "IResourceController": {
+            "name": "flow_noise_3D",
+            "type": 1,
+            "subtype": 21,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664316876402434:1995587",
+            "fileId": "1682007729871481:11667",
+            "originalId": "1682007729871482:11668",
+            "publicId": "1682007729872010:12097",
+            "expected_hash": "671066c327099a11df1f7ca8018221ff",
+            "additional": {
+                "originHash": "3ae97b684d98fcbddafb424199d64dbb"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1664316876402434:1995587",
+            "name": "Files/File982.jpg",
+            "flags": 1
+        }
+    },
+    "1682007729871481:11667": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871481_11667.png"
+        }
+    },
+    "1682007729871482:11668": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871482_11668.png"
+        }
+    },
+    "1682007729871484:11669": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871484_11669.png"
+        }
+    },
+    "1682007729871495:11677": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871495_11677.png"
+        }
+    },
+    "1682007729872010:12097": {
+        "IResourceController": {
+            "public": {
+                "path": "Trail VFX Resources/Textures/flow_noise_3D.png",
+                "hash": "3ae97b684d98fcbddafb424199d64dbb"
+            }
+        }
+    }
+}

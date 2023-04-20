@@ -1,0 +1,5 @@
+{
+  "goTo": "Pergi Ke {{Name}}",
+  "pointAt": "Halakan Pada {{Name}}",
+  "landmarkFailed": "{{Name}} Penanda Tempat Tidak Tersedia,  Gagal untuk memuatkan data lokasi"
+}

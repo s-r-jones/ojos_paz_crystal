@@ -1,0 +1,17 @@
+{
+    "1682007729870794:10724": {
+        "IResourceController": {
+            "name": "dancers Layer Target",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662069812500500:2610263"
+        },
+        "IResourceManager": {
+            "uid": "1662069812500500:2610263",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

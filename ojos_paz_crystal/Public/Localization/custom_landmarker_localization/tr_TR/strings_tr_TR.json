@@ -1,0 +1,5 @@
+{
+  "goTo": "Şuraya Git: {{Name}}",
+  "pointAt": "Kameranı Şuraya Tut: {{Name}}",
+  "landmarkFailed": "{{Name}} Sembolik Yapı Özelleştirici Kullanılamıyor,  Konum verileri yüklenemedi"
+}

@@ -1,0 +1,25 @@
+{
+    "1682007729871913:11953": {
+        "IResourceController": {
+            "public": {
+                "path": "paz_dance_experiment_07"
+            }
+        }
+    },
+    "1682007729872348:12423": {
+        "IResourceController": {
+            "name": "paz_dance_experiment_07",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729871913:11953",
+            "resources": [
+                "1682007729872326:12420",
+                "1682007729872346:12421",
+                "1682007729872347:12422",
+                "1682007729870793:10722"
+            ]
+        }
+    }
+}

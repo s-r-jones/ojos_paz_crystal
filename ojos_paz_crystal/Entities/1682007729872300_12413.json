@@ -1,0 +1,23 @@
+{
+    "1682007729872017:12110": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Deer"
+            }
+        }
+    },
+    "1682007729872300:12413": {
+        "IResourceController": {
+            "name": "Deer",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729872017:12110",
+            "resources": [
+                "1682007729872281:12411",
+                "1682007729872300:12412"
+            ]
+        }
+    }
+}

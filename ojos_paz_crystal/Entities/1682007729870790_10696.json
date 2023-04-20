@@ -1,0 +1,17 @@
+{
+    "1682007729870790:10696": {
+        "IResourceController": {
+            "name": "tail_05_JNT",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1660599278702562:119162"
+        },
+        "IResourceManager": {
+            "uid": "1660599278702562:119162",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

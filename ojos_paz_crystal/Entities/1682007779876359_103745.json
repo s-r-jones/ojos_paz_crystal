@@ -1,0 +1,24 @@
+{
+    "1682007779875602:103744": {
+        "IFileManager": {
+            "path": "Files/File_1682007779875602_103744.js"
+        }
+    },
+    "1682007779876359:103745": {
+        "IResourceController": {
+            "name": "Managing",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1682007779876369:103746",
+            "fileId": "1682007779875602:103744",
+            "expected_hash": "8d45b78f4a164c4db2c6255f886ee51e"
+        },
+        "IResourceManager": {
+            "uid": "1682007779876369:103746",
+            "name": "Files/File_1682007779875602_103744.js",
+            "flags": 1
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "1682007729872024:12136": {
+        "IResourceController": {
+            "public": {
+                "path": "Audio Analyzer Resources/Scripts"
+            }
+        }
+    },
+    "1682007729872751:12508": {
+        "IResourceController": {
+            "name": "Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682007729872024:12136",
+            "resources": [
+                "1682007729870857:11201",
+                "1682007729870857:11203"
+            ]
+        }
+    }
+}

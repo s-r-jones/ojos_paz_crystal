@@ -1,0 +1,39 @@
+{
+    "1682007729870796:10746": {
+        "IResourceController": {
+            "name": "Depth to Normals Mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662084676248841:4366607",
+            "fileId": "1682007729871142:11432",
+            "originalId": "1682007729871143:11433",
+            "publicId": "1682007729871956:12014",
+            "expected_hash": "40aa6b367f8f621b49e4094792cca1b6"
+        },
+        "IResourceManager": {
+            "uid": "1662084676248841:4366607",
+            "name": "Files/File_1682007729871142_11432",
+            "flags": 1
+        }
+    },
+    "1682007729871142:11432": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871142_11432"
+        }
+    },
+    "1682007729871143:11433": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871143_11433.lsmat"
+        }
+    },
+    "1682007729871956:12014": {
+        "IResourceController": {
+            "public": {
+                "path": "Screen Space Normals Resources/Materials/Depth to Normals Mat.lsmat",
+                "hash": "a456cbc1d5180681c43dec20f05e4ee9"
+            }
+        }
+    }
+}

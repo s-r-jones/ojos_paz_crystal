@@ -1,0 +1,39 @@
+{
+    "1682007729870860:11231": {
+        "IResourceController": {
+            "name": "FIX Color Correction",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1665092300188133:606348",
+            "fileId": "1682007729871771:11874",
+            "originalId": "1682007729871772:11875",
+            "publicId": "1682007729872035:12169",
+            "expected_hash": "cbe32a6e5333cd50834c3a3a32d6b94f"
+        },
+        "IResourceManager": {
+            "uid": "1665092300188133:606348",
+            "name": "Files/File_1682007729871771_11874",
+            "flags": 1
+        }
+    },
+    "1682007729871771:11874": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871771_11874"
+        }
+    },
+    "1682007729871772:11875": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871772_11875.lsmat"
+        }
+    },
+    "1682007729872035:12169": {
+        "IResourceController": {
+            "public": {
+                "path": "FIX Color Correction.lsmat",
+                "hash": "f8be902115cefd5f703c0d8fc15d16f2"
+            }
+        }
+    }
+}

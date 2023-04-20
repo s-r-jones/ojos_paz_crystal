@@ -1,0 +1,39 @@
+{
+    "1682007729870795:10741": {
+        "IResourceController": {
+            "name": "Uber PBR Screen Space Normals",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1662084675603661:4366242",
+            "fileId": "1682007729871128:11422",
+            "originalId": "1682007729871130:11423",
+            "publicId": "1682007729871950:12007",
+            "expected_hash": "017fdefeee57641d980ec129a6f4dfe8"
+        },
+        "IResourceManager": {
+            "uid": "1662084675603661:4366242",
+            "name": "Files/File_1682007729871128_11422",
+            "flags": 1
+        }
+    },
+    "1682007729871128:11422": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871128_11422"
+        }
+    },
+    "1682007729871130:11423": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871130_11423.lsmat"
+        }
+    },
+    "1682007729871950:12007": {
+        "IResourceController": {
+            "public": {
+                "path": "Screen Space Normals Resources/Materials/Uber PBR Screen Space Normals.lsmat",
+                "hash": "8388330c076bd167b7c5f03b4ecaa9c8"
+            }
+        }
+    }
+}

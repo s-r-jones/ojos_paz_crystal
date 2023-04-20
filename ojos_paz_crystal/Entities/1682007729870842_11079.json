@@ -1,0 +1,42 @@
+{
+    "1682007729870842:11079": {
+        "IResourceController": {
+            "name": "Colorful Glow",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1664235575509546:741360",
+            "fileId": "1682007729871450:11646",
+            "originalId": "1682007729871451:11647",
+            "publicId": "1682007729872006:12083",
+            "expected_hash": "f1af8aefb4ef345d22df40ee70e08850",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1664235575509546:741360",
+            "name": "Files/File_1682007729871450_11646",
+            "flags": 1
+        }
+    },
+    "1682007729871450:11646": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871450_11646"
+        }
+    },
+    "1682007729871451:11647": {
+        "IFileManager": {
+            "path": "Files/File_1682007729871451_11647.lsmat"
+        }
+    },
+    "1682007729872006:12083": {
+        "IResourceController": {
+            "public": {
+                "path": "Cinematic Glow/Example/Colorful Glow.lsmat",
+                "hash": "56d8b0a53aae191235d3985e397993d7"
+            }
+        }
+    }
+}
